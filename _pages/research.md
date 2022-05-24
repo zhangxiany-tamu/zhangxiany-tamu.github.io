@@ -24,6 +24,18 @@ permalink: /research
         </div>
       </div>
     </article>
+      <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          A Roy, J Chen, <b>X Zhang</b>
+          <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>,
+          2022.
+          <a class="tag" href="">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
