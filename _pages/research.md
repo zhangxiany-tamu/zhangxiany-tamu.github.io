@@ -29,9 +29,9 @@ permalink: /research
         <div class="content">
           <p>
           A Roy, J Chen, <b>X Zhang</b>.
-          <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>,
-          2022.
-          <a class="tag" href="/downloads/2dFDR-MF.pdf">link</a>
+          <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>. 
+          arXiv, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2205.11617">link</a>
           </p>
         </div>
       </div>
