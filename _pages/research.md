@@ -31,7 +31,7 @@ permalink: /research
           D Cirkovic, T Wang, <b>X Zhang</b>.
           <em>Likelihood-based Changepoint Detection in Preferential Attachment Networks</em>.
           arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2205.11617">link</a>
+          <a class="tag" href="https://arxiv.org/abs/2206.01076">link</a>
           </p>
         </div>
       </div>
