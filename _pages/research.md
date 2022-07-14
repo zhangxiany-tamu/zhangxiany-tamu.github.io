@@ -61,7 +61,18 @@ permalink: /research
         </div>
       </div>
     </article>
-        <article class="media">
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          J Yan, <b>X Zhang</b>.
+          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, to appear, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+      <article class="media">
       <div class="media-content">
         <div class="content">
           <p>
@@ -133,19 +144,6 @@ permalink: /research
           Statistica Sinica, 32, 1-23,
           2022.
           <a class="tag" href="/downloads/BRP.pdf">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Yan, <b>X Zhang</b>.
-          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>.
-          arXiv,
-          2021.
-          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
           </p>
         </div>
       </div>
