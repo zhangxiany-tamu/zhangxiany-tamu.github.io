@@ -200,7 +200,7 @@ permalink: /research
         </div>
       </div>
     </article>
-    <article class="media">
+    <!-- <article class="media">
       <div class="media-content">
         <div class="content">
           <p>
@@ -213,7 +213,7 @@ permalink: /research
         </div>
       </div>
     </article>
-    <article class="media">
+    <article class="media"> -->
       <div class="media-content">
         <div class="content">
           <p>
