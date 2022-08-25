@@ -403,7 +403,7 @@ permalink: /research
           <em>On the coverage bound problem of empirical likelihood methods for time series</em>.
           Journal of the Royal Statistical Society: Series B: Statistical Methodology,
           2016.
-          <a class="tag" href="https://doi.org/10.1111/rssb.12119">link</a>
+          <a class="tag" href="https://doi.org/10.1111/rssb.12119">link</a> <a class="tag" href="/downloads/CoverageBoundJRSSB-codeData.zip">R codes</a> 
           </p>
         </div>
       </div>
