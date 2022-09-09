@@ -40,6 +40,7 @@ permalink: /team
             <li>Hanxuan Ye</li>
             <li>Jian Yan</li>
             <li>Asmita Roy</li>
+            <li>Daniel Cirkovic (Co-directed with <a  href="https://sites.google.com/tamu.edu/twang">Tiandong Wang</a>)</li>
           </ul></p>
         </div>
       </div>
