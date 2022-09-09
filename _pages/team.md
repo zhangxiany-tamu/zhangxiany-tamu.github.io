@@ -18,6 +18,19 @@ permalink: /team
         </div>
       </div>
     </article>
+      <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <h1>Postdocs</h1>
+          <p><ul>
+            <li>Guanxun Li</li>
+          </ul></p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
     <article class="media">
       <div class="media-content">
         <div class="content">
@@ -37,7 +50,7 @@ permalink: /team
           <h1>PhD Alumni</h1>
           <p><ul>
             <li>Huijuan Zhou<br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
-            <li><a href="https://people.tamu.edu/~sangyoon0704/">Sangyoon Yi</a><br/>Current Position: Postdoc at the Texas A&M TRIPODS Research Institute</li>
+            <li><a href="https://people.tamu.edu/~sangyoon0704/">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
             <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Postdoc at the University of Washington at Seattle</li>
             <li>Shun Yao (Co-directed with Xiaofeng Shao)<br/>Current Position: Quantitative Researcher at Point72</li>
           </ul></p>
