@@ -517,7 +517,7 @@ permalink: /research
           <em>Testing for change points in time series</em>.
           Journal of the American Statistical Association 105 (491), 1228-1240,
           2010.
-          <a class="tag" href="/downloads/cp2010.pdf">link</a> <a class="tag" href="/downloads/Change-point.txt">R code</a>
+          <a class="tag" href="/downloads/cp2010.pdf">link</a> <a class="tag" href="/downloads/Change-point.txt">R codes</a>
           </p>
         </div>
       </div>
