@@ -292,37 +292,11 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-          J Xiao, L Chen, Y Yu, <b>X Zhang</b>, J Chen.
-          <em>A phylogeny-regularized sparse regression model for predictive modeling of microbial community data</em>.
-          Frontiers in microbiology 9, 3112,
-          2018.
-          <a class="tag" href="https://doi.org/10.3389/fmicb.2018.03112">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
           <b>X Zhang</b>, G Cheng.
           <em>Gaussian approximation for high dimensional vector under physical dependence</em>.
           Bernoulli 24 (4A), 2640-2675,
           2018.
           <a class="tag" href="https://projecteuclid.org/journals/bernoulli/volume-24/issue-4A/Gaussian-approximation-for-high-dimensional-vector-under-physical-dependence/10.3150/17-BEJ939.full">link</a> <a class="tag" href="/downloads/CMstat-Dec2017.pdf">slides</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Xiao, L Chen, S Johnson, Y Yu, <b>X Zhang</b>, J Chen.
-          <em>Predictive modeling of microbiome data using a phylogeny-regularized generalized linear mixed model</em>.
-          Frontiers in microbiology 9, 1391,
-          2018.
-          <a class="tag" href="https://doi.org/10.3389/fmicb.2018.01391">link</a>
           </p>
         </div>
       </div>
@@ -384,6 +358,19 @@ permalink: /research
         <div class="content">
           <p>
           <b>X Zhang</b>.
+          <em>Testing high dimensional mean under sparsity</em>.
+          arXiv,
+          2017.
+          <a class="tag" href="/downloads/LR-HD2017.pdf">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          <b>X Zhang</b>.
           <em>White noise testing and model diagnostic checking for functional time series</em>.
           Journal of Econometrics 194 (1), 76-95,
           2016.
@@ -414,19 +401,6 @@ permalink: /research
           Journal of the Royal Statistical Society: Series B: Statistical Methodology,
           2016.
           <a class="tag" href="https://doi.org/10.1111/rssb.12119">link</a> <a class="tag" href="/downloads/CoverageBoundJRSSB-codeData.zip">R codes</a> 
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          <b>X Zhang</b>.
-          <em>Testing high dimensional mean under sparsity</em>.
-          arXiv,
-          2015.
-          <a class="tag" href="/downloads/LR-HD2017.pdf">link</a>
           </p>
         </div>
       </div>
