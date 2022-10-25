@@ -24,6 +24,28 @@ permalink: /research
         </div>
       </div>
     </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          <b>X Zhang</b>, T Dawn.
+          <em>Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis</em>. arXiv, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+       <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          J Yan, <b>X Zhang</b>.
+          <em>A Nonparametric Two-sample Conditional Distribution Test</em>. arXiv, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
       <article class="media">
       <div class="media-content">
         <div class="content">
