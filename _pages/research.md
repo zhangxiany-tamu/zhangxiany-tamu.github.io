@@ -35,6 +35,7 @@ permalink: /research
         </div>
       </div>
     </article>
+    
        <article class="media">
       <div class="media-content">
         <div class="content">
@@ -74,11 +75,11 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-          <b>X Zhang</b>, H Zhou, H Ye.
-          <em>A Modern Theory for High-dimensional Cox Regression Models</em>.
+          L Deng, H Ke, <b>X Zhang</b>
+          <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>.
           arXiv,
           2022.
-          <a class="tag" href="https://arxiv.org/abs/2204.01161">link</a>
+          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a>
           </p>
         </div>
       </div>
