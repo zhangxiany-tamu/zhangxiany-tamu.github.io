@@ -46,6 +46,18 @@ permalink: /research
         </div>
       </div>
     </article>
+       <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          L Deng, K He, <b>X Zhang</b>.
+          <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
+          arXiv, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
       <article class="media">
       <div class="media-content">
         <div class="content">
