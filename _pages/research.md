@@ -35,7 +35,6 @@ permalink: /research
         </div>
       </div>
     </article>
-    
        <article class="media">
       <div class="media-content">
         <div class="content">
@@ -67,19 +66,6 @@ permalink: /research
           <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>. 
           arXiv, 2022.
           <a class="tag" href="https://arxiv.org/abs/2205.11617">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          L Deng, H Ke, <b>X Zhang</b>
-          <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>.
-          arXiv,
-          2022.
-          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a>
           </p>
         </div>
       </div>
