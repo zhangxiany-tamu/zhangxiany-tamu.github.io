@@ -87,7 +87,7 @@ permalink: /research
         <div class="content">
           <p>
           Z Lou, W Wu, <b>X Zhang</b>.
-          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, to appear, 2022. <a class="tag" href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac618/6694843">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">CRAN: GUniFrac</a>
+          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, to appear, 2022.
           </p>
         </div>
       </div>
