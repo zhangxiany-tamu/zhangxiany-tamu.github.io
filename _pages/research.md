@@ -86,16 +86,6 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-          Z Lou, <b>X Zhang</b>, W Wu.
-          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, to appear, 2022.
-          </p>
-        </div>
-      </div>
-    </article>
-        <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
           J Chen, <b>X Zhang</b>.
           <em>dICC: Distance-based Intraclass Correlation Coefficient for Metagenomic Reproducibility Studies</em>. Bioinformatics, to appear, 2022. <a class="tag" href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac618/6694843">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">CRAN: GUniFrac</a>
           </p>
