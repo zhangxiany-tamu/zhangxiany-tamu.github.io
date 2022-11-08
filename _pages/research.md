@@ -63,7 +63,7 @@ permalink: /research
         <div class="content">
           <p>
           <b>X Zhang</b>, H Zhou, H Ye.
-          <em>A Modern Theory for High-dimensional Cox Regression Models. arXiv, 2022.
+          <em>A Modern Theory for High-dimensional Cox Regression Models</em>. arXiv, 2022.
           <a class="tag" href="https://arxiv.org/abs/2204.01161">link</a>
           </p>
         </div>
