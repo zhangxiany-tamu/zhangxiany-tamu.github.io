@@ -99,6 +99,7 @@ permalink: /research
           <p>
           Z Lou, <b>X Zhang</b>, W Wu.
           <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, to appear, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2301.04209">link</a>  
           </p>
         </div>
       </div>
