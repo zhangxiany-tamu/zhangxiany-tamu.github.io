@@ -29,7 +29,7 @@ permalink: /research
         <div class="content">
           <p>
           <b>X Zhang</b>, T Dawn.
-          <em>Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis</em>. International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.
+          <em>Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis</em>. AISTATS, 2023.
           <a class="tag" href="https://arxiv.org/abs/2210.12235">link</a>
           </p>
         </div>
