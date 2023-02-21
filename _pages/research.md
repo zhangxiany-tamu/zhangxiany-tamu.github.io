@@ -35,6 +35,19 @@ permalink: /research
         </div>
       </div>
     </article>
+        <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          S Pramanik, <b>X Zhang</b>.
+          <em>Structure Adaptive Elastic-Net</em>.
+          arXiv,
+          2023.
+          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
        <article class="media">
       <div class="media-content">
         <div class="content">
@@ -278,19 +291,6 @@ permalink: /research
           The Annals of Statistics 48 (6), 3366-3394,
           2020.
           <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Distance-based-and-RKHS-based-dependence-metrics-in-high-dimension/10.1214/19-AOS1934.short">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Pramanik, <b>X Zhang</b>.
-          <em>Structure Adaptive Lasso</em>.
-          arXiv,
-          2020.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a>
           </p>
         </div>
       </div>
