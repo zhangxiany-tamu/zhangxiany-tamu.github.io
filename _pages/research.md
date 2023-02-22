@@ -43,7 +43,7 @@ permalink: /research
           <em>Structure Adaptive Elastic-Net</em>.
           arXiv,
           2023.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a>
+          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://github.com/sandy-pramanik/saenet.git">R code</a>
           </p>
         </div>
       </div>
