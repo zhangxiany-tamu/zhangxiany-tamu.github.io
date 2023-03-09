@@ -50,9 +50,9 @@ permalink: /team
         <div class="content">
           <h1>PhD Alumni</h1>
           <p><ul>
-            <li>Huijuan Zhou<br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
+            <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
             <li><a href="https://experts.okstate.edu/sayi">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
-            <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Postdoc at the University of Washington at Seattle</li>
+            <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Senior Manager at Bristol Myers Squibb</li>
             <li><a href="https://scholar.google.com/citations?user=dQ0ze2gAAAAJ&hl=en">Shun Yao</a> (Co-directed with Xiaofeng Shao)<br/>Current Position: Quantitative Researcher at Point72</li>
           </ul></p>
         </div>
