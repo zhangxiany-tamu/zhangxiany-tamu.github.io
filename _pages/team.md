@@ -51,9 +51,9 @@ permalink: /team
           <h1>PhD Alumni</h1>
           <p><ul>
             <li>Huijuan Zhou<br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
-            <li><a href="https://people.tamu.edu/~sangyoon0704/">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
+            <li><a href="https://experts.okstate.edu/sayi">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
             <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Postdoc at the University of Washington at Seattle</li>
-            <li>Shun Yao (Co-directed with Xiaofeng Shao)<br/>Current Position: Quantitative Researcher at Point72</li>
+            <li><a href="https://scholar.google.com/citations?user=dQ0ze2gAAAAJ&hl=en">Shun Yao</a> (Co-directed with Xiaofeng Shao)<br/>Current Position: Quantitative Researcher at Point72</li>
           </ul></p>
         </div>
       </div>
