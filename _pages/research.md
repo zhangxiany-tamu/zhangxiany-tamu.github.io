@@ -24,6 +24,30 @@ permalink: /research
         </div>
       </div>
     </article>
+      <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          L Deng, K He, <b>X Zhang</b>.
+          <em>Joint Mirror Procedure: Controlling False Discovery Rate for Identifying Simultaneous Signals</em>. 
+          arXiv, 2023.
+          <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+           <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          Q Xia, <b>X Zhang</b>.
+          <em>Adaptive Testing for Alphas in High-dimensional Factor Pricing Models</em>. 
+          arXiv, 2023.
+          <a class="tag" href="https://arxiv.org/abs/2304.06585">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
      <article class="media">
       <div class="media-content">
         <div class="content">
