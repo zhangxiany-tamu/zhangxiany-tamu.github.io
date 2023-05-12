@@ -42,7 +42,7 @@ permalink: /research
           <p>
           Q Xia, <b>X Zhang</b>.
           <em>Adaptive Testing for Alphas in High-dimensional Factor Pricing Models</em>. 
-          arXiv, 2023.
+          Journal of Business & Economic Statistics, to appear, 2023.
           <a class="tag" href="https://arxiv.org/abs/2304.06585">link</a>
           </p>
         </div>
