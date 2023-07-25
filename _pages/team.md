@@ -48,8 +48,8 @@ permalink: /team
         <div class="content">
           <h1>PhD Alumni</h1>
           <p><ul>
-          <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Hanxuan Ye</a><br/>Current Position: Postdoc at University of Pennsylvania</li>
-          <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Jian Yan</a><br/>Current Position: Postdoc at Cornell</li>
+          <li>Hanxuan Ye<br/>Current Position: Postdoc at University of Pennsylvania</li>
+          <li>Jian Yan<br/>Current Position: Postdoc at Cornell</li>
             <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
             <li><a href="https://experts.okstate.edu/sayi">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
             <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Senior Manager at Bristol Myers Squibb</li>
