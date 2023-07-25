@@ -31,7 +31,7 @@ permalink: /research
           L Deng, K He, <b>X Zhang</b>.
           <em>Joint Mirror Procedure: Controlling False Discovery Rate for Identifying Simultaneous Signals</em>. 
           arXiv, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a>
+          <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a> <a class="tag" href="https://github.com/denglinsui/JMirror">Github</a>
           </p>
         </div>
       </div>
@@ -90,7 +90,7 @@ permalink: /research
           L Deng, K He, <b>X Zhang</b>.
           <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
           arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a>
+          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a> <a class="tag" href="https://github.com/denglinsui/2dSMT">Github</a>
           </p>
         </div>
       </div>
