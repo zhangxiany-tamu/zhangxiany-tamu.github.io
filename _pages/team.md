@@ -48,7 +48,7 @@ permalink: /team
         <div class="content">
           <h1>PhD Alumni</h1>
           <p><ul>
-          <li>Hanxuan Ye<br/>Current Position: Postdoc at University of Pennsylvania</li>
+          <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Postdoc at University of Pennsylvania</li>
           <li>Jian Yan<br/>Current Position: Postdoc at Cornell</li>
             <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
             <li><a href="https://experts.okstate.edu/sayi">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
