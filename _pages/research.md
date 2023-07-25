@@ -12,7 +12,7 @@ permalink: /research
         <div class="content">
           <h1>Research Interests</h1>
           <p>
-            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My research has focused on high dimensional/large-scale statistical inference, kernel and distance-based methods, genomics and microbiome data analysis, functional data analysis, time series, and econometrics. My research is currently supported by NIH 1R01GM144351-01, NIH 1R21HG011662, NSF DMS-2113359, and local grants from Texas A&M.
+            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My research has focused on high dimensional/large-scale statistical inference, kernel and distance-based methods, genomics and microbiome data analysis, functional data analysis, time series, and econometrics. My research is currently supported by NIH, NSF and local grants from Texas A&M.
           </p>
         </div>
       </div>
@@ -67,7 +67,7 @@ permalink: /research
           <em>Structure Adaptive Elastic-Net</em>.
           arXiv,
           2023.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://github.com/sandy-pramanik/saenet.git">R code</a>
+          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://github.com/sandy-pramanik/saenet.git">Github</a>
           </p>
         </div>
       </div>
