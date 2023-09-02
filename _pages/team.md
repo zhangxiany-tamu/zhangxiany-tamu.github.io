@@ -13,7 +13,7 @@ permalink: /team
         <div class="content">
           <h1>Affiliated faculty</h1>
           <p><ul>
-            <li><a href="https://www.mayo.edu/research/faculty/chen-jun-ph-d/bio-20126134">Jun Chen</a>, Associate Professor of Biostatistics, Mayo Clinic.</li>
+            <li><a href="https://www.mayo.edu/research/faculty/chen-jun-ph-d/bio-20126134">Jun Chen</a>, Professor of Biostatistics, Mayo Clinic.</li>
           </ul></p>
         </div>
       </div>
