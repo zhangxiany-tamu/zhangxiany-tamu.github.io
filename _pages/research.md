@@ -207,8 +207,8 @@ permalink: /research
         <div class="content">
           <p>
           J Chen, <b>X Zhang</b>.
-          <em>dICC: distance-based intraclass correlation coefficient for metagenomic reproducibility studies</em>. Bioinformatics, 4969-4971, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
+          <em>dICC: distance-based intraclass correlation coefficient for metagenomic reproducibility studies</em>. Bioinformatics 38 (21), 4969-4971, 2022.
+          <a class="tag" href="https://academic.oup.com/bioinformatics/article/38/21/4969/6694843">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">CRAN: GUniFrac</a>
           </p>
         </div>
       </div>
