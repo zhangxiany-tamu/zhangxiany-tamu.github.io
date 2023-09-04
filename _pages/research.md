@@ -202,6 +202,17 @@ permalink: /research
         </div>
       </div>
     </article>
+            <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          J Chen, <b>X Zhang</b>.
+          <em>dICC: distance-based intraclass correlation coefficient for metagenomic reproducibility studies</em>. Bioinformatics, 4969-4971, 2022.
+          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
