@@ -36,6 +36,18 @@ permalink: /research
         </div>
       </div>
     </article>
+          <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          A Roy, J Chen, <b>X Zhang</b>.
+          <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>. 
+          Bioinformatics, to appear, 2023.
+          <a class="tag" href="https://arxiv.org/abs/2205.11617">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
            <article class="media">
       <div class="media-content">
         <div class="content">
@@ -114,18 +126,6 @@ permalink: /research
           <em>Likelihood-based Changepoint Detection in Preferential Attachment Networks</em>.
           arXiv, 2022.
           <a class="tag" href="https://arxiv.org/abs/2206.01076">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          A Roy, J Chen, <b>X Zhang</b>.
-          <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>. 
-          arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2205.11617">link</a>
           </p>
         </div>
       </div>
