@@ -1,7 +1,7 @@
 ---
 title: "Xianyang Zhang - Software"
 layout: default
-excerpt: "Xianyang Zhang -- Softwares"
+excerpt: "Xianyang Zhang -- Software"
 sitemap: false
 permalink: /software
 ---
