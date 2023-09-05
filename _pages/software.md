@@ -1,5 +1,5 @@
 ---
-title: "Xianyang Zhang - Softwares"
+title: "Xianyang Zhang - Software"
 layout: default
 excerpt: "Xianyang Zhang -- Softwares"
 sitemap: false
