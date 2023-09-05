@@ -53,7 +53,6 @@ permalink: /software
       </div>
     </div>
     <hr />
-    <hr />
     <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
