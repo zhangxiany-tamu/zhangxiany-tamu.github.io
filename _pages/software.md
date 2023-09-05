@@ -25,7 +25,7 @@ permalink: /software
         <div class="content">
           <p>
             <strong>fastcpd</strong> <span class="tag is-white">2023</span><br />
-            fastcpd implements an algorithm to perform change-point detection for various statistical models.
+            fastcpd implements an algorithm based on the sequential gradient descent and quasi-Newton’s method for change-point analysis in various statistical models.
           </p>
           <div class="field is-grouped is-grouped-multiline">
             <div class="control">
