@@ -24,7 +24,7 @@ permalink: /software
       <div class="column">
         <div class="content">
           <p>
-            <strong>fastcpd</strong> <span class="tag is-white">2023</span><br />
+            <strong>fastcpd (beta version)</strong> <span class="tag is-white">2023</span><br />
             fastcpd implements an algorithm based on the sequential gradient descent and quasi-Newton’s method for change-point analysis in various statistical models.
           </p>
           <div class="field is-grouped is-grouped-multiline">
