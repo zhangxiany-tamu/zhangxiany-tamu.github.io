@@ -24,7 +24,7 @@ permalink: /software
       <div class="column">
         <div class="content">
           <p>
-            <strong>fastcpd (beta version)</strong> <span class="tag is-white">2023</span><br />
+            <strong>fastcpd (Beta version)</strong> <span class="tag is-white">2023</span><br />
             fastcpd implements an algorithm based on the sequential gradient descent and quasi-Newton’s method for change-point analysis.  
 It can be applied to change-point detection in linear models, generalized linear models, robust regression, penalized regression, autoregressive models, etc.
           </p>
