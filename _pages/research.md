@@ -159,7 +159,7 @@ permalink: /research
           H Zhou, K He, J Chen, <b>X Zhang</b>.
           <em>LinDA: Linear Models for Differential Abundance Analysis of Microbiome Compositional Data</em>.
           Genome biology, 23:95, 2022.
-          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a> <a class="tag" href="https://github.com/zhouhj1994/LinDA">Github</a>
+          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a> <a class="tag" href="https://github.com/cafferychen777/MicrobiomeStat">Github</a>
           </p>
         </div>
       </div>
