@@ -106,6 +106,18 @@ It can be applied to change-point detection in linear models, generalized linear
                 >
               </div>
             </div>
+                        <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-book" aria-hidden="true"></i
+                ></span>
+                <a
+                  class="tag"
+                  href="https://www.microbiomestat.wiki/"
+                  >MicrobiomeStat.wiki</a
+                >
+              </div>
+            </div>
           </div>
         </div>
       </div>
