@@ -18,7 +18,7 @@ permalink: /software
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/fastcpd.png" />
+          <img src="/images/fastcpd-logo.png" />
         </figure>
       </div>
       <div class="column">
