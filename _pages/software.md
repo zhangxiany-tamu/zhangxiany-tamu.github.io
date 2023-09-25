@@ -18,7 +18,7 @@ permalink: /software
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/Rlogo.png" />
+          <img src="/images/fastcpd.png" />
         </figure>
       </div>
       <div class="column">
@@ -57,7 +57,7 @@ It can be applied to change-point detection in linear models, generalized linear
     <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/Rlogo.png" />
+          <img src="/images/MS-logo.png" />
         </figure>
       </div>
       <div class="column">
