@@ -31,7 +31,18 @@ permalink: /research
           L Deng, K He, <b>X Zhang</b>.
           <em>Joint Mirror Procedure: Controlling False Discovery Rate for Identifying Simultaneous Signals</em>. 
           arXiv, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a> <a class="tag" href="https://github.com/denglinsui/JMirror">Github</a>
+          <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a> <a class="tag" href="https://github.com/denglinsui/JMirror">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          ES Crafts, <b>X Zhang</b>, B Zhao.
+          <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. arXiv, 2023.
+          <a class="tag" href="df">link</a> 
           </p>
         </div>
       </div>
@@ -43,7 +54,7 @@ permalink: /research
           A Roy, J Chen, <b>X Zhang</b>.
           <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>. 
           Bioinformatics, to appear, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2205.11617">link</a>
+          <a class="tag" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad563/7265398">link</a> <a class="tag" href="https://github.com/asmita112358/tdfdr.np">GitHub</a>
           </p>
         </div>
       </div>
@@ -66,7 +77,7 @@ permalink: /research
           <p>
           <b>X Zhang</b>, T Dawn.
           <em>Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis</em>. AISTATS, 2023.
-          <a class="tag" href="https://proceedings.mlr.press/v206/zhang23b.html">link</a> <a class="tag" href="https://github.com/doccstat/fastcpd">R: fastcpd</a>
+          <a class="tag" href="https://proceedings.mlr.press/v206/zhang23b.html">link</a> <a class="tag" href="https://.com/doccstat/fastcpd">R: fastcpd</a>
           </p>
         </div>
       </div>
@@ -79,7 +90,7 @@ permalink: /research
           <em>Structure Adaptive Elastic-Net</em>.
           arXiv,
           2023.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://github.com/sandy-pramanik/saenet.git">Github</a>
+          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://.com/sandy-pramanik/saenet.git">GitHub</a>
           </p>
         </div>
       </div>
@@ -102,7 +113,7 @@ permalink: /research
           L Deng, K He, <b>X Zhang</b>.
           <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
           arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a> <a class="tag" href="https://github.com/denglinsui/2dSMT">Github</a>
+          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a> <a class="tag" href="https://github.com/denglinsui/2dSMT">GitHub</a>
           </p>
         </div>
       </div>
@@ -159,7 +170,7 @@ permalink: /research
           H Zhou, K He, J Chen, <b>X Zhang</b>.
           <em>LinDA: Linear Models for Differential Abundance Analysis of Microbiome Compositional Data</em>.
           Genome biology, 23:95, 2022.
-          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a> <a class="tag" href="https://github.com/cafferychen777/MicrobiomeStat">Github</a>
+          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a> <a class="tag" href="https://github.com/cafferychen777/MicrobiomeStat">GitHub</a>
           </p>
         </div>
       </div>
@@ -198,17 +209,6 @@ permalink: /research
           <em>Detection of local differences in spatial characteristics between two spatiotemporal random fields</em>.
           Journal of the American Statistical Association, 117, 291-306, 2022.
           <a class="tag" href="https://doi.org/10.1080/01621459.2020.1775613">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-            <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Chen, <b>X Zhang</b>.
-          <em>dICC: distance-based intraclass correlation coefficient for metagenomic reproducibility studies</em>. Bioinformatics 38 (21), 4969-4971, 2022.
-          <a class="tag" href="https://academic.oup.com/bioinformatics/article/38/21/4969/6694843">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">CRAN: GUniFrac</a>
           </p>
         </div>
       </div>
