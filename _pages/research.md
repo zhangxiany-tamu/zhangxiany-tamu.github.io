@@ -77,7 +77,7 @@ permalink: /research
           <p>
           <b>X Zhang</b>, T Dawn.
           <em>Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis</em>. AISTATS, 2023.
-          <a class="tag" href="https://proceedings.mlr.press/v206/zhang23b.html">link</a> <a class="tag" href="https://.com/doccstat/fastcpd">R: fastcpd</a>
+          <a class="tag" href="https://proceedings.mlr.press/v206/zhang23b.html">link</a> <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
           </p>
         </div>
       </div>
