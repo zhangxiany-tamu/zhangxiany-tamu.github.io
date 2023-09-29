@@ -42,7 +42,7 @@ permalink: /research
           <p>
           ES Crafts, <b>X Zhang</b>, B Zhao.
           <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. arXiv, 2023.
-          <a class="tag" href="df">link</a> 
+          <a class="tag" href="https://arxiv.org/abs/2309.16076">link</a> 
           </p>
         </div>
       </div>
