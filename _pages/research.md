@@ -47,6 +47,18 @@ permalink: /research
         </div>
       </div>
     </article>
+         <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          H Ye, <b>X Zhang</b>, C Wang, E Goode, J Chen.
+          <em>Batch Effect Correction with Re-measured Samples in Completely Confounded Case-control Studies</em>. 
+          Nature Computational Science, to appear, 2023.
+          <a class="tag" href="https://www.nature.com/articles/s43588-023-00500-8">link</a> <a class="tag" href="https://github.com/yehanxuan/BatchReMeasure">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
      <article class="media">
       <div class="media-content">
         <div class="content">
