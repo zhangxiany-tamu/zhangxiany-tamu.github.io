@@ -54,7 +54,7 @@ permalink: /research
           H Ye, <b>X Zhang</b>, C Wang, E Goode, J Chen.
           <em>Batch Effect Correction with Re-measured Samples in Completely Confounded Case-control Studies</em>. 
           Nature Computational Science, to appear, 2023.
-          <a class="tag" href="https://www.nature.com/articles/s43588-023-00500-8">link</a> <a class="tag" href="https://github.com/yehanxuan/BatchReMeasure">GitHub</a>
+          <a class="tag" href="https://rdcu.be/dkd8I">link</a> <a class="tag" href="https://github.com/yehanxuan/BatchReMeasure">GitHub</a> <a class="tag" href="https://hanxuan.shinyapps.io/PowerCalculation/">Shinyapps</a>
           </p>
         </div>
       </div>
