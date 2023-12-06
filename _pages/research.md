@@ -24,6 +24,19 @@ permalink: /research
         </div>
       </div>
     </article>
+          <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          G Li, <b>X Zhang</b>.
+          <em>E-values, Multiple Testing and Beyond</em>. 
+          arXiv, 2023.
+          <a class="tag" href="https://arxiv.org/abs/2312.02905">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
       <article class="media">
       <div class="media-content">
         <div class="content">
