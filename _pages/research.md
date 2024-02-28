@@ -134,7 +134,7 @@ permalink: /research
         <div class="content">
           <p>
           Z Lou, X Zhang, W Wu.
-          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, 2023.
+          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, 110, 777–797, 2023.
           <a class="tag" href="https://arxiv.org/abs/2301.04209">link</a>  
           </p>
         </div>
@@ -145,7 +145,7 @@ permalink: /research
         <div class="content">
           <p>
           J Yan, X Zhang.
-          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, 2023.
+          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, 110, 411–430, 2023.
           <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
           </p>
         </div>
