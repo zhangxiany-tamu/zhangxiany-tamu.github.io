@@ -82,6 +82,19 @@ permalink: /research
         </div>
       </div>
     </article>
+      <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          S Pramanik, X Zhang.
+          <em>Structure Adaptive Elastic-Net</em>.
+          arXiv,
+          2023.
+          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://.com/sandy-pramanik/saenet.git">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
          <article class="media">
       <div class="media-content">
         <div class="content">
@@ -147,19 +160,6 @@ permalink: /research
           J Yan, X Zhang.
           <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, 110, 411–430, 2023.
           <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-        <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Pramanik, X Zhang.
-          <em>Structure Adaptive Elastic-Net</em>.
-          arXiv,
-          2023.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://.com/sandy-pramanik/saenet.git">GitHub</a>
           </p>
         </div>
       </div>
