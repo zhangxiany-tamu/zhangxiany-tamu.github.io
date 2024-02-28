@@ -24,7 +24,30 @@ permalink: /research
         </div>
       </div>
     </article>
-          <article class="media">
+         <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          J Garg, X Zhang, Q Zhou.
+          <em>Soft-constrained Schrödinger bridge: a stochastic-control approach</em>. 
+          AISTATS, 2024.
+          </p>
+        </div>
+      </div>
+    </article>
+      <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          A Roy, X Zhang.
+          <em>Powerful Large-scale Inference in High Dimensional Mediation Analysis</em>. 
+          arXiv, 2024.
+          <a class="tag" href="https://arxiv.org/abs/2402.13933">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+      <article class="media">
       <div class="media-content">
         <div class="content">
           <p>
@@ -437,7 +460,7 @@ permalink: /research
         <div class="content">
           <p>
           X Zhang, A Bhattacharya.
-          <em>Empirical bayes, sure and sparse normal mean models</em>.
+          <em>Empirical bayes, SURE and Sparse Normal Mean Models</em>.
           arXiv,
           2017.
           <a class="tag" href="/downloads/EB-2019.pdf">link</a>
