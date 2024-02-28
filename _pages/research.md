@@ -29,7 +29,7 @@ permalink: /research
         <div class="content">
           <p>
           J Garg, X Zhang, Q Zhou.
-          <em>Soft-constrained Schrödinger bridge: a stochastic-control approach</em>. 
+          <em>Soft-constrained Schrödinger Bridge: A Stochastic-control Approach</em>. 
           AISTATS, 2024.
           </p>
         </div>
