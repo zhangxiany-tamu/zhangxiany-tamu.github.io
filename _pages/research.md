@@ -129,6 +129,28 @@ permalink: /research
         </div>
       </div>
     </article>
+            <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          Z Lou, X Zhang, W Wu.
+          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, 2023.
+          <a class="tag" href="https://arxiv.org/abs/2301.04209">link</a>  
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          J Yan, X Zhang.
+          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, 2023.
+          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
         <article class="media">
       <div class="media-content">
         <div class="content">
@@ -184,28 +206,6 @@ permalink: /research
           <em>Likelihood-based Changepoint Detection in Preferential Attachment Networks</em>.
           arXiv, 2022.
           <a class="tag" href="https://arxiv.org/abs/2206.01076">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-        <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          Z Lou, X Zhang, W Wu.
-          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, to appear, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2301.04209">link</a>  
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Yan, X Zhang.
-          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, to appear, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
           </p>
         </div>
       </div>
