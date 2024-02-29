@@ -41,7 +41,7 @@ permalink: /research
           <p>
           A Roy, X Zhang.
           <em>Powerful Large-scale Inference in High Dimensional Mediation Analysis</em>. 
-          arXiv, 2023.
+          arXiv, 2024.
           <a class="tag" href="https://arxiv.org/abs/2402.13933">link</a>
           </p>
         </div>
