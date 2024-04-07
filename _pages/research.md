@@ -40,18 +40,6 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-          A Roy, X Zhang.
-          <em>Powerful Large-scale Inference in High Dimensional Mediation Analysis</em>. 
-          arXiv, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2402.13933">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
           G Li, X Zhang.
           <em>E-values, Multiple Testing and Beyond</em>. 
           arXiv, 2023.
