@@ -24,6 +24,19 @@ permalink: /research
         </div>
       </div>
     </article>
+          <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          X Li, X Zhang.
+          <em>fastcpd: Fast Change Point Detection in R</em>. 
+          arXiv, 2024.
+          <a class="tag" href="https://arxiv.org/abs/2404.05933">link</a> <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
+          </p>
+        </div>
+      </div>
+    </article>
+      <article class="media">
          <article class="media">
       <div class="media-content">
         <div class="content">
