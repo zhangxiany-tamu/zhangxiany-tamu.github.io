@@ -25,6 +25,7 @@ permalink: /team
           <p><ul>
             <li><a  href="https://xingchi.li">Xingchi Li</a></li>
             <li>Daniel Cirkovic (Co-directed with <a  href="https://sites.google.com/tamu.edu/twang">Tiandong Wang</a>)</li>
+            <li>Weiwei Wang (Co-directed with Raymond Wong)</li>
           </ul></p>
         </div>
       </div>
