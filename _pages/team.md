@@ -18,16 +18,6 @@ permalink: /team
         </div>
       </div>
     </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <h1>Postdocs</h1>
-          <p><ul>
-            <li>Guanxun Li</li>
-          </ul></p>
-        </div>
-      </div>
-    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
@@ -37,7 +27,6 @@ permalink: /team
           <h1>Current PhD students</h1>
           <p><ul>
             <li><a  href="https://xingchi.li">Xingchi Li</a></li>
-            <li>Asmita Roy</li>
             <li>Daniel Cirkovic (Co-directed with <a  href="https://sites.google.com/tamu.edu/twang">Tiandong Wang</a>)</li>
           </ul></p>
         </div>
@@ -48,6 +37,8 @@ permalink: /team
         <div class="content">
           <h1>PhD Alumni</h1>
           <p><ul>
+          <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Assistant Professor at Beijing Normal University at Zhuhai</li>
+          <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>
           <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Postdoc at University of Pennsylvania</li>
           <li>Jian Yan<br/>Current Position: Postdoc at Cornell</li>
             <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
