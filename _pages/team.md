@@ -33,7 +33,7 @@ permalink: /team
     <article class="media">
       <div class="media-content">
         <div class="content">
-          <h1>PhD Alumni</h1>
+          <h1>PhD and Postdoc Alumni</h1>
           <p><ul>
           <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Assistant Professor at Beijing Normal University at Zhuhai</li>
           <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>
