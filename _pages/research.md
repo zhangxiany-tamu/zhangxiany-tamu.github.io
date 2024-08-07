@@ -28,6 +28,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+          ES Crafts, X Zhang, B Zhao.
+          <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. IEEE Transactions on Information Theory, to appear, 2024.
+          <a class="tag" href="https://arxiv.org/abs/2309.16076">link</a> 
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
           L Deng, K He, X Zhang.
           <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
           Statistica Sinica, to appear, 2024.
@@ -80,17 +91,6 @@ permalink: /research
           <em>Joint Mirror Procedure: Controlling False Discovery Rate for Identifying Simultaneous Signals</em>. 
           arXiv, 2023.
           <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a> <a class="tag" href="https://github.com/denglinsui/JMirror">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          ES Crafts, X Zhang, B Zhao.
-          <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. arXiv, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2309.16076">link</a> 
           </p>
         </div>
       </div>
