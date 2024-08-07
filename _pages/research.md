@@ -28,6 +28,18 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+          L Deng, K He, X Zhang.
+          <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
+          Statistica Sinica, to appear, 2024.
+          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a> <a class="tag" href="https://github.com/denglinsui/2dSMT">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
           J Garg, X Zhang, Q Zhou.
           <em>Soft-constrained Schrödinger Bridge: A Stochastic-control Approach</em>. 
           AISTATS, 2024.
@@ -172,18 +184,6 @@ permalink: /research
           J Yan, X Zhang.
           <em>A Nonparametric Two-sample Conditional Distribution Test</em>. arXiv, 2022.
           <a class="tag" href="https://arxiv.org/abs/2210.08149">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-       <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          L Deng, K He, X Zhang.
-          <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
-          arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a> <a class="tag" href="https://github.com/denglinsui/2dSMT">GitHub</a>
           </p>
         </div>
       </div>
