@@ -36,6 +36,7 @@ permalink: /team
           <h1>PhD and Postdoc Alumni</h1>
           <p><ul>
           <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Assistant Professor at Beijing Normal University at Zhuhai</li>
+          <li>Linsui Deng (Co-directed with Kejun He)<br/>Current Position: Postdoc at Chinese University of Hong Kong, Shenzhen</li>
           <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>
           <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Postdoc at University of Pennsylvania</li>
           <li>Jian Yan<br/>Current Position: Postdoc at Cornell</li>
