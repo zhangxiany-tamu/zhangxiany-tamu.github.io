@@ -24,7 +24,7 @@ permalink: /team
           <h1>Current PhD students</h1>
           <p><ul>
             <li><a  href="https://xingchi.li">Xingchi Li</a></li>
-            <li>Daniel Cirkovic (Co-directed with <a  href="https://sites.google.com/tamu.edu/twang">Tiandong Wang</a>)</li>
+            <li>Daniel Cirkovic (Co-directed with <a  href="https://sites.google.com/tamu.edu/twang">Tiandong Wang</a> and Daren Cline)</li>
             <li>Weiwei Wang (Co-directed with Raymond Wong)</li>
           </ul></p>
         </div>
