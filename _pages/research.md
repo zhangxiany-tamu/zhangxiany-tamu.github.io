@@ -30,7 +30,7 @@ permalink: /research
           <p>
           ES Crafts, X Zhang, B Zhao.
           <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. IEEE Transactions on Information Theory, to appear, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2309.16076">link</a> 
+          <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">link</a> 
           </p>
         </div>
       </div>
@@ -54,7 +54,7 @@ permalink: /research
           J Garg, X Zhang, Q Zhou.
           <em>Soft-constrained Schrödinger Bridge: A Stochastic-control Approach</em>. 
           AISTATS, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2403.01717">link</a>
+          <a class="tag" href="https://arxiv.org/abs/2403.01717">link</a> <a class="tag" href="https://github.com/gargjhanvi/Soft-constrained-Schrodinger-Bridge-a-Stochastic-Control-Approach">Code</a>
           </p>
         </div>
       </div>
@@ -103,7 +103,7 @@ permalink: /research
           <em>Structure Adaptive Elastic-Net</em>.
           arXiv,
           2023.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://.com/sandy-pramanik/saenet.git">GitHub</a>
+          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://github.com/sandy-pramanik/saenet">GitHub</a>
           </p>
         </div>
       </div>
