@@ -30,7 +30,7 @@ permalink: /research
           <p>
           ES Crafts, X Zhang, B Zhao.
           <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. IEEE Transactions on Information Theory, to appear, 2024.
-          <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">link</a> 
+          <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">link</a> <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
           </p>
         </div>
       </div>
