@@ -24,6 +24,26 @@ permalink: /research
         </div>
       </div>
     </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          X Li, G Li, X Zhang.
+          <em>Segmenting Watermarked Texts From Language Models</em>. NeurIPS, 2024.
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          G Li, X Zhang.
+          <em>A Note on E-values and Multiple Testing</em>. Biometrika, to appear, 2024.
+          </p>
+        </div>
+      </div>
+    </article>
      <article class="media">
       <div class="media-content">
         <div class="content">
