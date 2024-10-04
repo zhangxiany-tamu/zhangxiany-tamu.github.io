@@ -39,7 +39,7 @@ permalink: /research
         <div class="content">
           <p>
           G Li, X Zhang.
-          <em>A Note on E-values and Multiple Testing</em>. Biometrika, to appear, 2024.
+          <em>A Note on E-values and Multiple Testing</em>. Biometrika, to appear, 2024. <a class="tag" href="/downloads/evalue.pdf">link</a>
           </p>
         </div>
       </div>
