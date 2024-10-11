@@ -28,7 +28,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-          X Zhang, H Zhou
+          X Zhang, H Zhou.
           <em>Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks</em>. arXiv, 2024. <a class="tag" href="https://arxiv.org/abs/2410.08026">link</a>
           </p>
         </div>
@@ -247,7 +247,7 @@ permalink: /research
           <p>
           H Zhou, K He, J Chen, X Zhang.
           <em>LinDA: Linear Models for Differential Abundance Analysis of Microbiome Compositional Data</em>.
-          Genome biology, 23:95, 2022.
+          Genome Biology, 23:95, 2022.
           <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a> <a class="tag" href="https://github.com/zhouhj1994/LinDA">GitHub</a>
           </p>
         </div>
@@ -323,7 +323,7 @@ permalink: /research
           <p>
           S Yi, X Zhang, L Yang, J Huang, Y Liu, C Wang, DJ Schaid, J Chen.
           <em>2dFDR: a new approach to confounder adjustment substantially increases detection power in omics association studies</em>.
-          Genome biology, 22:208,
+          Genome Biology, 22:208,
           2021.
           <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02418-8">link</a> <a class="tag" href="/downloads/2dFDR-supp.pdf">supplement file</a> <a class="tag" href="https://github.com/jchen1981/TDFDR/">R: tdfdr</a>
           </p>
@@ -388,7 +388,7 @@ permalink: /research
           <p>
           J Huang, L Bai, B Cui, L Wu, L Wang, Z An, S Ruan, Y Yu, X Zhang, J Chen.
           <em>Leveraging biological and statistical covariates improves the detection power in epigenome-wide association testing</em>.
-          Genome biology, 21:88,
+          Genome Biology, 21:88,
           2020.
           <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02001-7">link</a>
           </p>
