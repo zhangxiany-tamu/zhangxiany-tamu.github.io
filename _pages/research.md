@@ -29,7 +29,7 @@ permalink: /research
         <div class="content">
           <p>
           X Zhang, H Zhou
-          <em>Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks</em>. arXiv, 2024. <a class="tag" href="https://arxiv.org/abs/2410.08026">arXiv</a>
+          <em>Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks</em>. arXiv, 2024. <a class="tag" href="https://arxiv.org/abs/2410.08026">link</a>
           </p>
         </div>
       </div>
