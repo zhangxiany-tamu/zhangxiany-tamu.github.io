@@ -70,6 +70,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+          Y Li, X Zhou, R Chen, X Zhang, H Cao.
+          <em>STAREG: Statistical replicability analysis of high throughput experiments with applications to spatial transcriptomic studies</em>. PLOS Genetics, to appear, 2024.
+          <a class="tag" href="https://journals.plos.org/plosgenetics/article/metrics?id=10.1371/journal.pgen.1011423#viewedHeader">link</a> <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
           ES Crafts, X Zhang, B Zhao.
           <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. IEEE Transactions on Information Theory, to appear, 2024.
           <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">link</a> <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
