@@ -72,7 +72,7 @@ permalink: /research
           <p>
           Y Li, X Zhou, R Chen, X Zhang, H Cao.
           <em>STAREG: Statistical replicability analysis of high throughput experiments with applications to spatial transcriptomic studies</em>. PLOS Genetics, to appear, 2024.
-          <a class="tag" href="https://journals.plos.org/plosgenetics/article/metrics?id=10.1371/journal.pgen.1011423#viewedHeader">link</a> <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
+          <a class="tag" href="https://journals.plos.org/plosgenetics/article/metrics?id=10.1371/journal.pgen.1011423#viewedHeader">link</a>
           </p>
         </div>
       </div>
