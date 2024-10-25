@@ -34,6 +34,18 @@ permalink: /research
         </div>
       </div>
     </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          J Yan, Z Li, X Zhang.
+          <em>Distance and Kernel-Based Measures for Global and Local
+Two-Sample Conditional Distribution Testing</em>. arXiv, 2024.
+          <a class="tag" href="https://arxiv.org/abs/2210.08149">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
@@ -214,17 +226,6 @@ permalink: /research
           J Yan, X Zhang.
           <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, 110, 411–430, 2023.
           <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-       <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Yan, X Zhang.
-          <em>A Nonparametric Two-sample Conditional Distribution Test</em>. arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2210.08149">link</a>
           </p>
         </div>
       </div>
