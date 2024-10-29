@@ -12,7 +12,7 @@ permalink: /research
         <div class="content">
           <h1>Research Interests</h1>
           <p>
-            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My research has focused on deep learning, high dimensional/large-scale statistical inference, kernel and distance-based methods, and genomics. My research is supported by NIH, NSF, and local grants from Texas A&M.
+            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My current research has focused on deep learning, high dimensional/large-scale statistical inference, kernel and distance-based methods, and genomics. My research is supported by NIH, NSF, and local grants from Texas A&M.
           </p>
         </div>
       </div>
