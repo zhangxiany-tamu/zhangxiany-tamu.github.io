@@ -52,7 +52,7 @@ Two-Sample Conditional Distribution Testing</em>. arXiv, 2024.
           <p>
           X Li, G Li, X Zhang.
           <em>Segmenting Watermarked Texts From Language Models</em>. NeurIPS, 2024.
-            <a class="tag" href="https://arxiv.org/abs/2410.20670">link</a>
+            <a class="tag" href="https://arxiv.org/abs/2410.20670">link</a> <a class="tag" href="https://github.com/doccstat/llm-watermark-cpd">GitHub</a>
           </p>
         </div>
       </div>
