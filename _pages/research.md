@@ -83,6 +83,17 @@ Two-Sample Conditional Distribution Testing</em>. arXiv, 2024.
       <div class="media-content">
         <div class="content">
           <p>
+          L Yang, X Zhang, J Chen.
+          <em>Winsorization Greatly Reduces False Positives by Popular Differential Expression Methods when Analyzing Human Population Samples </em>. Genome Biology, 2024.
+          <a class="tag" href="https://link.springer.com/article/10.1186/s13059-024-03230-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241030&utm_content=10.1186/s13059-024-03230-w">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
           Y Li, X Zhou, R Chen, X Zhang, H Cao.
           <em>STAREG: Statistical Replicability Analysis of High Throughput Experiments with Applications to Spatial Transcriptomic Studies</em>. PLOS Genetics, to appear, 2024.
           <a class="tag" href="https://journals.plos.org/plosgenetics/article/metrics?id=10.1371/journal.pgen.1011423#viewedHeader">link</a>
