@@ -94,6 +94,18 @@ Two-Sample Conditional Distribution Testing</em>. arXiv, 2024.
       <div class="media-content">
         <div class="content">
           <p>
+          L Deng, Y Tang, X Zhang, J Chen.
+          <em>Structure-Adaptive Canonical Correlation
+Analysis for Microbiome Multi-omics Data</em>. Frontiers in Genetics, 2024.
+          <a class="tag" href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1489694/abstract">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
+     <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
           ES Crafts, X Zhang, B Zhao.
           <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. IEEE Transactions on Information Theory, to appear, 2024.
           <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">link</a> <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
