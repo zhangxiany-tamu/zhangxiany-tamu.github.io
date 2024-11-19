@@ -24,6 +24,17 @@ permalink: /research
         </div>
       </div>
     </article>
+    =<article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          A Roy, H Zhou, N Zhao, X Zhang.
+          <em>Subsampling-based Tests in Mediation Analysis</em>. arXiv, 2024.
+          <a class="tag" href="https://arxiv.org/abs/2411.10648">link</a>
+          </p>
+        </div>
+      </div>
+    </article>
      <article class="media">
       <div class="media-content">
         <div class="content">
