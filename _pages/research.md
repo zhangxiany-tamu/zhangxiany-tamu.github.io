@@ -20,7 +20,17 @@ permalink: /research
     <article class="media">
       <div class="media-content">
         <div class="content">
-          <h1>Publications and Preprints</h1>
+          <h1>Selected Publications and Preprints</h1>
+        </div>
+      </div>
+    </article>
+      <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          X Zhang, H Zhou.
+          <em>Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks</em>. ICLR, 2025. <a class="tag" href="https://arxiv.org/abs/2410.08026">link</a>
+          </p>
         </div>
       </div>
     </article>
@@ -31,16 +41,6 @@ permalink: /research
           A Roy, H Zhou, N Zhao, X Zhang.
           <em>Subsampling-based Tests in Mediation Analysis</em>. arXiv, 2024.
           <a class="tag" href="https://arxiv.org/abs/2411.10648">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, H Zhou.
-          <em>Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks</em>. arXiv, 2024. <a class="tag" href="https://arxiv.org/abs/2410.08026">link</a>
           </p>
         </div>
       </div>
