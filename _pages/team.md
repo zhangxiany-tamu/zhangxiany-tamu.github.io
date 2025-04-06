@@ -23,7 +23,7 @@ permalink: /team
         <div class="content">
           <h1>Current PhD students</h1>
           <p><ul>
-            <li><a  href="https://cafferyang.com/">Chen Yang</a> (Co-directed with Jun Chen</li>
+            <li><a  href="https://cafferyang.com/">Chen Yang</a> (Co-directed with Jun Chen)</li>
             <li><a  href="https://xingchi.li">Xingchi Li</a></li>
             <li>Daniel Cirkovic (Co-directed with <a  href="https://tw398.github.io/twang/">Tiandong Wang</a> and Daren Cline)</li>
             <li>Weiwei Wang (Co-directed with Raymond Wong)</li>
