@@ -12,7 +12,7 @@ permalink: /research
         <div class="content">
           <h1>Research Interests</h1>
           <p>
-            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My current research has focused on deep learning, high dimensional/large-scale statistical inference, kernel and distance-based methods, and genomics. My research is supported by NIH, NSF, and local grants from Texas A&M.
+            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My current research has focused on deep learning, high-dimensional/large-scale statistical inference, kernel and distance-based methods, and genomics. My research is supported by NIH, NSF, and local grants from Texas A&M.
           </p>
         </div>
       </div>
@@ -21,6 +21,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <h1>Selected Publications and Preprints</h1>
+        </div>
+      </div>
+    </article>
+          <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+          C Yang, X Zhang, J Chen
+          <em>Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data</em>. ICLR, 2025. <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">link</a>
+          </p>
         </div>
       </div>
     </article>
