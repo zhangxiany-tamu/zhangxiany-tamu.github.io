@@ -29,7 +29,7 @@ permalink: /research
         <div class="content">
           <p>
           C Yang, X Zhang, J Chen.
-          <em>Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data</em>. ICLR, 2025. <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">link</a>
+          <em>Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data</em>. bioRxiv, 2025. <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">link</a>
           </p>
         </div>
       </div>
