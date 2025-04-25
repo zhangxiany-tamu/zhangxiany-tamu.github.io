@@ -15,7 +15,7 @@ permalink: /software
         </div>
       </div>
     </article>
-            <div class="columns">
+     <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
           <img src="/images/Rlogo.png" />
@@ -35,6 +35,44 @@ permalink: /software
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/KDist"
                   >GitHub</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+     <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
+          <img src="/images/Rlogo.png" />
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content">
+          <p>
+            <strong>mLLMCelltype</strong> <span class="tag is-white">2025</span><br />
+            mLLMCelltype is an iterative multi-LLM consensus framework for cell type annotation in single-cell RNA sequencing data. By leveraging the complementary strengths of multiple large language models (OpenAI GPT-4o/4.1, Anthropic Claude-3.7/3.5, Google Gemini-2.0, X.AI Grok-3, DeepSeek-V3, Alibaba Qwen2.5, Zhipu GLM-4, MiniMax, Stepfun, and OpenRouter), this framework significantly improves annotation accuracy while providing transparent uncertainty quantification.
+          </p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-code-fork" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype"
+                  >GitHub</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-book" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1"
+                  >Paper</a
                 >
               </div>
             </div>
