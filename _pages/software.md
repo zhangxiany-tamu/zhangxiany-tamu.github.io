@@ -15,6 +15,45 @@ permalink: /software
         </div>
       </div>
     </article>
+            <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
+          <img src="/images/fastcpd-logo.png" />
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content">
+          <p>
+            <strong>fastcpd (Beta version)</strong> <span class="tag is-white">2023</span><br />
+            fastcpd implements an algorithm based on the sequential gradient descent and quasi-Newton’s method for change-point analysis.  
+It can be applied to change-point detection in linear models, generalized linear models, robust regression, penalized regression, autoregressive models, etc.
+          </p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-code-fork" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://github.com/doccstat/fastcpd"
+                  >GitHub</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-book" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://proceedings.mlr.press/v206/zhang23b.html"
+                  >Paper</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
