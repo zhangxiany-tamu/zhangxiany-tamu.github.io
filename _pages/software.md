@@ -389,6 +389,12 @@ It can be applied to change-point detection in linear models, generalized linear
       </div>
     </div>
     <hr />
+    <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
+          <img src="/images/Rlogo.png" />
+        </figure>
+      </div>
       <div class="column">
         <div class="content">
           <p>
