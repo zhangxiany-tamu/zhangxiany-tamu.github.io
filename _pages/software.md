@@ -389,63 +389,6 @@ It can be applied to change-point detection in linear models, generalized linear
       </div>
     </div>
     <hr />
-    <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/Rlogo.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>jdcov</strong> <span class="tag is-white">2019</span><br />
-            jdov computes joint distance covariance (JdCov) among more than two
-            random vectors of arbitrary dimensions (see Chakraborty and Zhang,
-            2019) and implements a bootstrap based test for joint independence
-            among the random vectors based on JdCov.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://rdrr.io/github/shubhadeep4/jdcov/"
-                  >rdrr</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/shubhadeep4/jdcov/"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-book" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1513364?journalCode=uasa20"
-                  >Paper</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
-    <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/Rlogo.png" />
-        </figure>
-      </div>
       <div class="column">
         <div class="content">
           <p>
