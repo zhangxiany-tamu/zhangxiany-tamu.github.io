@@ -5,697 +5,148 @@ excerpt: "Xianyang Zhang -- Research"
 permalink: /research
 ---
 
-<div markdown="0" class="hero-body">
-  <div class="container">
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <h1>Research Interests</h1>
-          <p>
-            The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My current research has focused on deep learning, high-dimensional/large-scale statistical inference, kernel and distance-based methods, and genomics. My research is supported by NIH, NSF, and local grants from Texas A&M.
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <h1>Selected Publications and Preprints</h1>
-        </div>
-      </div>
-    </article>
-          <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          C Yang, X Zhang, J Chen.
-          <em>Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data</em>. bioRxiv, 2025. <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">link</a> <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, H Zhou.
-          <em>Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks</em>. ICLR, 2025. <a class="tag" href="https://arxiv.org/abs/2410.08026">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-        <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Li, G Li, X Zhang.
-          <em>A Likelihood Based Approach for Watermark Detection</em>. AISTATS, 2025.
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          A Roy, H Zhou, N Zhao, X Zhang.
-          <em>Subsampling-based Tests in Mediation Analysis</em>. arXiv, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2411.10648">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Yan, Z Li, X Zhang.
-          <em>Distance and Kernel-Based Measures for Global and Local
-Two-Sample Conditional Distribution Testing</em>. arXiv, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2210.08149">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Li, G Li, X Zhang.
-          <em>Segmenting Watermarked Texts From Language Models</em>. NeurIPS, 2024.
-            <a class="tag" href="https://arxiv.org/abs/2410.20670">link</a> <a class="tag" href="https://github.com/doccstat/llm-watermark-cpd">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          G Li, X Zhang.
-          <em>A Note on E-values and Multiple Testing</em>. Biometrika, to appear, 2024. <a class="tag" href="/downloads/evalue.pdf">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          L Deng, K He, X Zhang.
-          <em>Joint Mirror Procedure: Controlling False Discovery Rate for Identifying Simultaneous Signals</em>. 
-          Biometrics, to appear, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2304.10866">link</a> <a class="tag" href="https://github.com/denglinsui/JMirror">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          L Yang, X Zhang, J Chen.
-          <em>Winsorization Greatly Reduces False Positives by Popular Differential Expression Methods when Analyzing Human Population Samples </em>. Genome Biology, 2024.
-          <a class="tag" href="https://link.springer.com/article/10.1186/s13059-024-03230-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241030&utm_content=10.1186/s13059-024-03230-w">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          L Deng, Y Tang, X Zhang, J Chen.
-          <em>Structure-Adaptive Canonical Correlation
-Analysis for Microbiome Multi-omics Data</em>. Frontiers in Genetics, 2024.
-          <a class="tag" href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1489694/abstract">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          ES Crafts, X Zhang, B Zhao.
-          <em>Bayesian Cramér–Rao Bound Estimation with Score-Based Models</em>. IEEE Transactions on Information Theory, to appear, 2024.
-          <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">link</a> <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          L Deng, K He, X Zhang.
-          <em>Powerful Spatial Multiple Testing via Borrowing Neighboring Information</em>. 
-          Statistica Sinica, to appear, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2210.17121">link</a> <a class="tag" href="https://github.com/denglinsui/2dSMT">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Garg, X Zhang, Q Zhou.
-          <em>Soft-constrained Schrödinger Bridge: A Stochastic-control Approach</em>. 
-          AISTATS, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2403.01717">link</a> <a class="tag" href="https://github.com/gargjhanvi/Soft-constrained-Schrodinger-Bridge-a-Stochastic-Control-Approach">Code</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Li, X Zhang.
-          <em>fastcpd: Fast Change Point Detection in R</em>. 
-          arXiv, 2024.
-          <a class="tag" href="https://arxiv.org/abs/2404.05933">link</a> <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          G Li, X Zhang.
-          <em>E-values, Multiple Testing and Beyond</em>. 
-          arXiv, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2312.02905">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Pramanik, X Zhang.
-          <em>Structure Adaptive Elastic-Net</em>.
-          arXiv,
-          2023.
-          <a class="tag" href="https://arxiv.org/abs/2006.02041">link</a> <a class="tag" href="https://github.com/sandy-pramanik/saenet">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-         <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          H Ye, X Zhang, C Wang, E Goode, J Chen.
-          <em>Batch Effect Correction with Re-measured Samples in Completely Confounded Case-control Studies</em>. 
-          Nature Computational Science, to appear, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2311.03289">link</a> <a class="tag" href="https://github.com/yehanxuan/BatchReMeasure">GitHub</a> <a class="tag" href="https://hanxuan.shinyapps.io/PowerCalculation/">Shiny app</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          A Roy, J Chen, X Zhang.
-          <em>A General Framework for Powerful Confounder Adjustment in Omics Association Studies</em>. 
-          Bioinformatics, to appear, 2023.
-          <a class="tag" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad563/7265398">link</a> <a class="tag" href="https://github.com/asmita112358/tdfdr.np">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-           <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          Q Xia, X Zhang.
-          <em>Adaptive Testing for Alphas in High-dimensional Factor Pricing Models</em>. 
-          Journal of Business & Economic Statistics, to appear, 2023.
-          <a class="tag" href="/downloads/AdaTest.pdf">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, T Dawn.
-          <em>Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis</em>. AISTATS, 2023.
-          <a class="tag" href="https://proceedings.mlr.press/v206/zhang23b.html">link</a> <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
-          </p>
-        </div>
-      </div>
-    </article>
-            <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          Z Lou, X Zhang, W Wu.
-          <em>High Dimensional Analysis of Variance in Multivariate Linear Regression</em>. Biometrika, 110, 777–797, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2301.04209">link</a>  
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Yan, X Zhang.
-          <em>Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders</em>. Biometrika, 110, 411–430, 2023.
-          <a class="tag" href="https://arxiv.org/abs/2201.00073">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-         <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, H Zhou, H Ye.
-          <em>A Modern Theory for High-dimensional Cox Regression Models</em>. arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2204.01161">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          D Cirkovic, T Wang, X Zhang.
-          <em>Likelihood-based Changepoint Detection in Preferential Attachment Networks</em>.
-          arXiv, 2022.
-          <a class="tag" href="https://arxiv.org/abs/2206.01076">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-      <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          H Zhou, K He, J Chen, X Zhang.
-          <em>LinDA: Linear Models for Differential Abundance Analysis of Microbiome Compositional Data</em>.
-          Genome Biology, 23:95, 2022.
-          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a> <a class="tag" href="https://github.com/zhouhj1994/LinDA">GitHub</a>
-          </p>
-        </div>
-      </div>
-    </article>
-        <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          H Cao, J Chen, X Zhang.
-          <em>Optimal false discovery rate control for large scale multiple testing with auxiliary information</em>.
-          Annals of Statistics, 50 (2), 807–857,
-          2022.
-          <a class="tag" href="/downloads/order_FDR_2021.pdf">link</a> <a class="tag" href="https://github.com/jchen1981/OrderShapeEM">R: OrderShapeEM</a>
-          </p>
-        </div>
-      </div>
-    </article>
-     <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, J Chen.
-          <em>Covariate adaptive false discovery rate control with applications to omics-wide multiple testing</em>.
-          Journal of the American Statistical Association, 117, 411-427, 
-          2022.
-          <a class="tag" href="https://doi.org/10.1080/01621459.2020.1783273">link</a> <a class="tag" href="https://github.com/jchen1981/CAMT">R: CAMT</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Yun, X Zhang, B Li.
-          <em>Detection of local differences in spatial characteristics between two spatiotemporal random fields</em>.
-          Journal of the American Statistical Association, 117, 291-306, 2022.
-          <a class="tag" href="https://doi.org/10.1080/01621459.2020.1775613">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Chen, X Zhang.
-          <em>D-MANOVA: fast distance-based multivariate analysis of variance for large-scale microbiome association studies</em>.
-          Bioinformatics 38 (1), 286-288,
-          2022.
-          <a class="tag" href="https://doi.org/10.1093/bioinformatics/btab498">link</a> <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">CRAN: GUniFrac</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Yi, X Zhang.
-          <em>Projection-based Inference for High-dimensional Linear Models</em>.
-          Statistica Sinica, 32, 1-23,
-          2022.
-          <a class="tag" href="/downloads/BRP.pdf">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Yi, X Zhang, L Yang, J Huang, Y Liu, C Wang, DJ Schaid, J Chen.
-          <em>2dFDR: a new approach to confounder adjustment substantially increases detection power in omics association studies</em>.
-          Genome Biology, 22:208,
-          2021.
-          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02418-8">link</a> <a class="tag" href="/downloads/2dFDR-supp.pdf">supplement file</a> <a class="tag" href="https://github.com/jchen1981/TDFDR/">R: tdfdr</a>
-          </p>
-        </div>
-      </div>
-    </article>
-        <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          H Zhou, X Zhang, J Chen.
-          <em>Covariate Adaptive Family-wise Error Rate Control for Genome-Wide Association Studies</em>.
-          Biometrika, 108, 915–931,
-          2021.
-          <a class="tag" href="https://doi.org/10.1093/biomet/asaa098">link</a> <a class="tag" href="https://github.com/jchen1981/CAMT/">R: CAMT</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Chakraborty, X Zhang.
-          <em>High-dimensional Change-point Detection Using Generalized Homogeneity Metrics</em>.
-          arXiv,
-          2021.
-          <a class="tag" href="https://arxiv.org/abs/2105.08976">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Chakraborty, X Zhang.
-          <em>A new framework for distance and kernel-based metrics in high dimensions</em>.
-          Electronic Journal of Statistics, 15, 5455-5522,
-          2021.
-          <a class="tag" href="/downloads/kernel-based metrics.pdf">link</a> <a class="tag" href="/downloads/HM-slides.pdf">slides</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <!-- <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Kong, Z Yu, X Zhang, G Cheng.
-          <em>High Dimensional Robust Inference for Cox Regression Models using De‐sparsified Lasso</em>.
-          Scandinavian Journal of Statistics, 48, 1068-1095,
-          2021.
-          <a class="tag" href="https://doi.org/10.1111/sjos.12543">link</a>
-          </p>
-        </div>
-      </div>
-    </article>-->
-    <article class="media"> 
-      <div class="media-content">
-        <div class="content">
-          <p>
-          J Huang, L Bai, B Cui, L Wu, L Wang, Z An, S Ruan, Y Yu, X Zhang, J Chen.
-          <em>Leveraging biological and statistical covariates improves the detection power in epigenome-wide association testing</em>.
-          Genome Biology, 21:88,
-          2020.
-          <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02001-7">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          C Zhu, X Zhang, S Yao, X Shao.
-          <em>Distance-based and RKHS-based dependence metrics in high dimension</em>.
-          The Annals of Statistics 48 (6), 3366-3394,
-          2020.
-          <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Distance-based-and-RKHS-based-dependence-metrics-in-high-dimension/10.1214/19-AOS1934.short">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          CE Lee, X Zhang, X Shao.
-          <em>Testing conditional mean independence for functional data</em>.
-          Biometrika 107 (2), 331-346,
-          2020.
-          <a class="tag" href="https://doi.org/10.1093/biomet/asz070">link</a> <a class="tag" href="/downloads/FMDD-supp.pdf">supplement file</a> <a class="tag" href="/downloads/CodeCMDexample1.txt">R code</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Chakraborty, X Zhang.
-          <em>Distance metrics for measuring joint dependence with application to causal inference</em>.
-          Journal of the American Statistical Association,
-          2019.
-          <a class="tag" href="https://doi.org/10.1080/01621459.2018.1513364">link</a> <a class="tag" href="https://rdrr.io/github/shubhadeep4/jdcov/">rdrr: jdcov</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, G Cheng.
-          <em>Gaussian approximation for high dimensional vector under physical dependence</em>.
-          Bernoulli 24 (4A), 2640-2675,
-          2018.
-          <a class="tag" href="https://projecteuclid.org/journals/bernoulli/volume-24/issue-4A/Gaussian-approximation-for-high-dimensional-vector-under-physical-dependence/10.3150/17-BEJ939.full">link</a> <a class="tag" href="/downloads/CMstat-Dec2017.pdf">slides</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          S Yao, X Zhang, X Shao.
-          <em>Testing mutual independence in high dimension via distance covariance</em>.
-          Journal of the Royal Statistical Society: Series B (Statistical Methodology),
-          2018.
-          <a class="tag" href="https://doi.org/10.1111/rssb.12259">link</a> <a class="tag" href="/downloads/Independence-code.zip">R codes</a> <a class="tag" href="/downloads/Sep2017_Supp.pdf">supplement file</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, S Yao, X Shao.
-          <em>Conditional mean and quantile dependence testing in high dimension</em>.
-          The Annals of Statistics 46 (1), 219-246,
-          2018.
-          <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-1/Conditional-mean-and-quantile-dependence-testing-in-high-dimension/10.1214/17-AOS1548.full">link</a> <a class="tag" href="/downloads/MDD-AOS-Supp-Jan2017.pdf">supplement file</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, G Cheng.
-          <em>Simultaneous inference for high-dimensional linear models</em>.
-          Journal of the American Statistical Association 112 (518), 757-768,
-          2017.
-          <a class="tag" href="https://doi.org/10.1080/01621459.2016.1166114">link</a> <a class="tag" href="/downloads/ZC16-Supp.pdf">supplement file</a> <a class="tag" href="https://cran.r-project.org/web/packages/SILM/index.html">CRAN: SILM</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, A Bhattacharya.
-          <em>Empirical bayes, SURE and Sparse Normal Mean Models</em>.
-          arXiv,
-          2017.
-          <a class="tag" href="/downloads/EB-2019.pdf">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang.
-          <em>Testing high dimensional mean under sparsity</em>.
-          arXiv,
-          2017.
-          <a class="tag" href="/downloads/LR-HD2017.pdf">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang.
-          <em>White noise testing and model diagnostic checking for functional time series</em>.
-          Journal of Econometrics 194 (1), 76-95,
-          2016.
-          <a class="tag" href="https://doi.org/10.1016/j.jeconom.2016.04.004">link</a> <a class="tag" href="/downloads/FWD.zip">R codes</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang.
-          <em>Fixed-smoothing asymptotics in the generalized empirical likelihood estimation framework</em>.
-          Journal of Econometrics 193 (1), 123-146,
-          2016.
-          <a class="tag" href="https://doi.org/10.1016/j.jeconom.2016.01.009">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, X Shao.
-          <em>On the coverage bound problem of empirical likelihood methods for time series</em>.
-          Journal of the Royal Statistical Society: Series B: Statistical Methodology,
-          2016.
-          <a class="tag" href="https://doi.org/10.1111/rssb.12119">link</a> <a class="tag" href="/downloads/CoverageBoundJRSSB-codeData.zip">R codes</a> 
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, X Shao.
-          <em>Two sample inference for the second-order property of temporally dependent functional data</em>.
-          Bernoulli 21 (2), 909-929,
-          2015.
-          <a class="tag" href="https://projecteuclid.org/journals/bernoulli/volume-21/issue-2/Two-sample-inference-for-the-second-order-property-of-temporally/10.3150/13-BEJ592.full">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, X Shao.
-          <em>Fixed-b asymptotics for blockwise empirical likelihood</em>.
-          Statistica Sinica, 1179-1194,
-          2014.
-          <a class="tag" href="https://www.jstor.org/stable/24310983?seq=1#metadata_info_tab_contents">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, G Cheng.
-          <em>Bootstrapping high dimensional time series</em>.
-          arXiv,
-          2014.
-          <a class="tag" href="https://arxiv.org/abs/1406.1037">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, B Li, X Shao.
-          <em>Self‐normalization for Spatial Data</em>.
-          Scandinavian Journal of Statistics 41 (2), 311-324,
-          2014.
-          <a class="tag" href="https://doi.org/10.1111/sjos.12028">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, X Shao.
-          <em>Fixed-smoothing asymptotics for time series</em>.
-          The Annals of Statistics 41 (3), 1329-1349,
-          2013.
-          <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-41/issue-3/Fixed-smoothing-asymptotics-for-time-series/10.1214/13-AOS1113.full">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Zhang, X Shao, K Hayhoe, DJ Wuebbles.
-          <em>Testing the structural stability of temporally dependent functional observations and application to climate projections</em>.
-          Electronic Journal of Statistics 5, 1765-1796,
-          2011.
-          <a class="tag" href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-5/issue-none/Testing-the-structural-stability-of-temporally-dependent-functional-observations-and/10.1214/11-EJS655.full">link</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-          X Shao, X Zhang.
-          <em>Testing for change points in time series</em>.
-          Journal of the American Statistical Association 105 (491), 1228-1240,
-          2010.
-          <a class="tag" href="/downloads/cp2010.pdf">link</a> <a class="tag" href="/downloads/Change-point.txt">R codes</a>
-          </p>
-        </div>
-      </div>
-    </article>
+# Research Interests
+
+The primary objective of my research is to develop new statistical theories and methodologies for large-scale and high-dimensional data with complex structures. My current research has focused on deep learning, high-dimensional/large-scale statistical inference, kernel and distance-based methods, and genomics. My research is supported by NIH, NSF, and local grants from Texas A&M.
+
+# Selected Publications and Preprints
+
+## 2025
+
+- Yang C, Zhang X, Chen J. (2025). Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1) | [GitHub](https://github.com/cafferychen777/mLLMCelltype)
+
+- Zhang X, Zhou H. (2025). Generalization Bounds and Model Complexity for Kolmogorov-Arnold Networks. *ICLR*. [arXiv](https://arxiv.org/abs/2410.08026)
+
+- Li X, Li G, Zhang X. (2025). A Likelihood Based Approach for Watermark Detection. *AISTATS*.
+
+## 2024
+
+- Roy A, Zhou H, Zhao N, Zhang X. (2024). Subsampling-based Tests in Mediation Analysis. [arXiv](https://arxiv.org/abs/2411.10648)
+
+- Yan J, Li Z, Zhang X. (2024). Distance and Kernel-Based Measures for Global and Local Two-Sample Conditional Distribution Testing. [arXiv](https://arxiv.org/abs/2210.08149)
+
+- Li X, Li G, Zhang X. (2024). Segmenting Watermarked Texts From Language Models. *NeurIPS*. [arXiv](https://arxiv.org/abs/2410.20670) | [GitHub](https://github.com/doccstat/llm-watermark-cpd)
+
+- Li G, Zhang X. (2024). A Note on E-values and Multiple Testing. *Biometrika*, to appear. [link](/downloads/evalue.pdf)
+
+- Deng L, He K, Zhang X. (2024). Joint Mirror Procedure: Controlling False Discovery Rate for Identifying Simultaneous Signals. *Biometrics*, to appear. [arXiv](https://arxiv.org/abs/2304.10866) | [GitHub](https://github.com/denglinsui/JMirror)
+
+- Yang L, Zhang X, Chen J. (2024). Winsorization Greatly Reduces False Positives by Popular Differential Expression Methods when Analyzing Human Population Samples. *Genome Biology*. [link](https://link.springer.com/article/10.1186/s13059-024-03230-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241030&utm_content=10.1186/s13059-024-03230-w)
+
+- Deng L, Tang Y, Zhang X, Chen J. (2024). Structure-Adaptive Canonical Correlation Analysis for Microbiome Multi-omics Data. *Frontiers in Genetics*. [link](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1489694/abstract)
+
+- Crafts ES, Zhang X, Zhao B. (2024). Bayesian Cramér–Rao Bound Estimation with Score-Based Models. *IEEE Transactions on Information Theory*, to appear. [link](https://ieeexplore.ieee.org/document/10643208) | [arXiv](https://arxiv.org/abs/2309.16076)
+
+- Deng L, He K, Zhang X. (2024). Powerful Spatial Multiple Testing via Borrowing Neighboring Information. *Statistica Sinica*, to appear. [arXiv](https://arxiv.org/abs/2210.17121) | [GitHub](https://github.com/denglinsui/2dSMT)
+
+- Garg J, Zhang X, Zhou Q. (2024). Soft-constrained Schrödinger Bridge: A Stochastic-control Approach. *AISTATS*. [arXiv](https://arxiv.org/abs/2403.01717) | [Code](https://github.com/gargjhanvi/Soft-constrained-Schrodinger-Bridge-a-Stochastic-Control-Approach)
+
+- Li X, Zhang X. (2024). fastcpd: Fast Change Point Detection in R. [arXiv](https://arxiv.org/abs/2404.05933) | [R: fastcpd](https://fastcpd.xingchi.li/)
+
+## 2023
+
+- Li G, Zhang X. (2023). E-values, Multiple Testing and Beyond. [arXiv](https://arxiv.org/abs/2312.02905)
+
+- Pramanik S, Zhang X. (2023). Structure Adaptive Elastic-Net. [arXiv](https://arxiv.org/abs/2006.02041) | [GitHub](https://github.com/sandy-pramanik/saenet)
+
+- Ye H, Zhang X, Wang C, Goode E, Chen J. (2023). Batch Effect Correction with Re-measured Samples in Completely Confounded Case-control Studies. *Nature Computational Science*, to appear. [arXiv](https://arxiv.org/abs/2311.03289) | [GitHub](https://github.com/yehanxuan/BatchReMeasure) | [Shiny app](https://hanxuan.shinyapps.io/PowerCalculation/)
+
+- Roy A, Chen J, Zhang X. (2023). A General Framework for Powerful Confounder Adjustment in Omics Association Studies. *Bioinformatics*, to appear. [link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad563/7265398) | [GitHub](https://github.com/asmita112358/tdfdr.np)
+
+- Xia Q, Zhang X. (2023). Adaptive Testing for Alphas in High-dimensional Factor Pricing Models. *Journal of Business & Economic Statistics*, to appear. [link](/downloads/AdaTest.pdf)
+
+- Zhang X, Dawn T. (2023). Sequential Gradient Descent and Quasi-Newton's Method for Change-Point Analysis. *AISTATS*. [link](https://proceedings.mlr.press/v206/zhang23b.html) | [R: fastcpd](https://fastcpd.xingchi.li/)
+
+- Lou Z, Zhang X, Wu W. (2023). High Dimensional Analysis of Variance in Multivariate Linear Regression. *Biometrika*, 110, 777–797. [arXiv](https://arxiv.org/abs/2301.04209)
+
+- Yan J, Zhang X. (2023). Kernel Two-Sample Tests in High Dimension: Interplay Between Moment Discrepancy and Dimension-and-Sample Orders. *Biometrika*, 110, 411–430. [arXiv](https://arxiv.org/abs/2201.00073)
+
+## 2022
+
+- Zhang X, Zhou H, Ye H. (2022). A Modern Theory for High-dimensional Cox Regression Models. [arXiv](https://arxiv.org/abs/2204.01161)
+
+- Cirkovic D, Wang T, Zhang X. (2022). Likelihood-based Changepoint Detection in Preferential Attachment Networks. [arXiv](https://arxiv.org/abs/2206.01076)
+
+- Zhou H, He K, Chen J, Zhang X. (2022). LinDA: Linear Models for Differential Abundance Analysis of Microbiome Compositional Data. *Genome Biology*, 23:95. [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5) | [CRAN: MicrobiomeStat](https://cran.r-project.org/web/packages/MicrobiomeStat/index.html) | [GitHub](https://github.com/zhouhj1994/LinDA)
+
+- Cao H, Chen J, Zhang X. (2022). Optimal false discovery rate control for large scale multiple testing with auxiliary information. *Annals of Statistics*, 50(2), 807–857. [link](/downloads/order_FDR_2021.pdf) | [R: OrderShapeEM](https://github.com/jchen1981/OrderShapeEM)
+
+- Zhang X, Chen J. (2022). Covariate adaptive false discovery rate control with applications to omics-wide multiple testing. *Journal of the American Statistical Association*, 117, 411-427. [link](https://doi.org/10.1080/01621459.2020.1783273) | [R: CAMT](https://github.com/jchen1981/CAMT)
+
+- Yun S, Zhang X, Li B. (2022). Detection of local differences in spatial characteristics between two spatiotemporal random fields. *Journal of the American Statistical Association*, 117, 291-306. [link](https://doi.org/10.1080/01621459.2020.1775613)
+
+- Chen J, Zhang X. (2022). D-MANOVA: fast distance-based multivariate analysis of variance for large-scale microbiome association studies. *Bioinformatics*, 38(1), 286-288. [link](https://doi.org/10.1093/bioinformatics/btab498) | [CRAN: GUniFrac](https://cran.r-project.org/web/packages/GUniFrac/index.html)
+
+- Yi S, Zhang X. (2022). Projection-based Inference for High-dimensional Linear Models. *Statistica Sinica*, 32, 1-23. [link](/downloads/BRP.pdf)
+
+## 2021
+
+- Yi S, Zhang X, Yang L, Huang J, Liu Y, Wang C, Schaid DJ, Chen J. (2021). 2dFDR: a new approach to confounder adjustment substantially increases detection power in omics association studies. *Genome Biology*, 22:208. [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02418-8) | [supplement file](/downloads/2dFDR-supp.pdf) | [R: tdfdr](https://github.com/jchen1981/TDFDR/)
+
+- Zhou H, Zhang X, Chen J. (2021). Covariate Adaptive Family-wise Error Rate Control for Genome-Wide Association Studies. *Biometrika*, 108, 915–931. [link](https://doi.org/10.1093/biomet/asaa098) | [R: CAMT](https://github.com/jchen1981/CAMT/)
+
+- Chakraborty S, Zhang X. (2021). High-dimensional Change-point Detection Using Generalized Homogeneity Metrics. [arXiv](https://arxiv.org/abs/2105.08976)
+
+- Chakraborty S, Zhang X. (2021). A new framework for distance and kernel-based metrics in high dimensions. *Electronic Journal of Statistics*, 15, 5455-5522. [link](/downloads/kernel-based%20metrics.pdf) | [slides](/downloads/HM-slides.pdf)
+
+## 2020
+
+- Huang J, Bai L, Cui B, Wu L, Wang L, An Z, Ruan S, Yu Y, Zhang X, Chen J. (2020). Leveraging biological and statistical covariates improves the detection power in epigenome-wide association testing. *Genome Biology*, 21:88. [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02001-7)
+
+- Zhu C, Zhang X, Yao S, Shao X. (2020). Distance-based and RKHS-based dependence metrics in high dimension. *The Annals of Statistics*, 48(6), 3366-3394. [link](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Distance-based-and-RKHS-based-dependence-metrics-in-high-dimension/10.1214/19-AOS1934.short)
+
+- Lee CE, Zhang X, Shao X. (2020). Testing conditional mean independence for functional data. *Biometrika*, 107(2), 331-346. [link](https://doi.org/10.1093/biomet/asz070) | [supplement file](/downloads/FMDD-supp.pdf) | [R code](/downloads/CodeCMDexample1.txt)
+
+## 2019
+
+- Chakraborty S, Zhang X. (2019). Distance metrics for measuring joint dependence with application to causal inference. *Journal of the American Statistical Association*. [link](https://doi.org/10.1080/01621459.2018.1513364) | [rdrr: jdcov](https://rdrr.io/github/shubhadeep4/jdcov/)
+
+## 2018
+
+- Zhang X, Cheng G. (2018). Gaussian approximation for high dimensional vector under physical dependence. *Bernoulli*, 24(4A), 2640-2675. [link](https://projecteuclid.org/journals/bernoulli/volume-24/issue-4A/Gaussian-approximation-for-high-dimensional-vector-under-physical-dependence/10.3150/17-BEJ939.full) | [slides](/downloads/CMstat-Dec2017.pdf)
+
+- Yao S, Zhang X, Shao X. (2018). Testing mutual independence in high dimension via distance covariance. *Journal of the Royal Statistical Society: Series B (Statistical Methodology)*. [link](https://doi.org/10.1111/rssb.12259) | [R codes](/downloads/Independence-code.zip) | [supplement file](/downloads/Sep2017_Supp.pdf)
+
+- Zhang X, Yao S, Shao X. (2018). Conditional mean and quantile dependence testing in high dimension. *The Annals of Statistics*, 46(1), 219-246. [link](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-1/Conditional-mean-and-quantile-dependence-testing-in-high-dimension/10.1214/17-AOS1548.full) | [supplement file](/downloads/MDD-AOS-Supp-Jan2017.pdf)
+
+## 2017
+
+- Zhang X, Cheng G. (2017). Simultaneous inference for high-dimensional linear models. *Journal of the American Statistical Association*, 112(518), 757-768. [link](https://doi.org/10.1080/01621459.2016.1166114) | [supplement file](/downloads/ZC16-Supp.pdf) | [CRAN: SILM](https://cran.r-project.org/web/packages/SILM/index.html)
+
+- Zhang X, Bhattacharya A. (2017). Empirical bayes, SURE and Sparse Normal Mean Models. [link](/downloads/EB-2019.pdf)
+
+- Zhang X. (2017). Testing high dimensional mean under sparsity. [link](/downloads/LR-HD2017.pdf)
+
+## 2016
+
+- Zhang X. (2016). White noise testing and model diagnostic checking for functional time series. *Journal of Econometrics*, 194(1), 76-95. [link](https://doi.org/10.1016/j.jeconom.2016.04.004) | [R codes](/downloads/FWD.zip)
+
+- Zhang X. (2016). Fixed-smoothing asymptotics in the generalized empirical likelihood estimation framework. *Journal of Econometrics*, 193(1), 123-146. [link](https://doi.org/10.1016/j.jeconom.2016.01.009)
+
+- Zhang X, Shao X. (2016). On the coverage bound problem of empirical likelihood methods for time series. *Journal of the Royal Statistical Society: Series B: Statistical Methodology*. [link](https://doi.org/10.1111/rssb.12119) | [R codes](/downloads/CoverageBoundJRSSB-codeData.zip)
+
+## 2015
+
+- Zhang X, Shao X. (2015). Two sample inference for the second-order property of temporally dependent functional data. *Bernoulli*, 21(2), 909-929. [link](https://projecteuclid.org/journals/bernoulli/volume-21/issue-2/Two-sample-inference-for-the-second-order-property-of-temporally/10.3150/13-BEJ592.full)
+
+## 2014
+
+- Zhang X, Shao X. (2014). Fixed-b asymptotics for blockwise empirical likelihood. *Statistica Sinica*, 1179-1194. [link](https://www.jstor.org/stable/24310983?seq=1#metadata_info_tab_contents)
+
+- Zhang X, Cheng G. (2014). Bootstrapping high dimensional time series. [arXiv](https://arxiv.org/abs/1406.1037)
+
+- Zhang X, Li B, Shao X. (2014). Self‐normalization for Spatial Data. *Scandinavian Journal of Statistics*, 41(2), 311-324. [link](https://doi.org/10.1111/sjos.12028)
+
+## 2013
+
+- Zhang X, Shao X. (2013). Fixed-smoothing asymptotics for time series. *The Annals of Statistics*, 41(3), 1329-1349. [link](https://projecteuclid.org/journals/annals-of-statistics/volume-41/issue-3/Fixed-smoothing-asymptotics-for-time-series/10.1214/13-AOS1113.full)
+
+## 2011
+
+- Zhang X, Shao X, Hayhoe K, Wuebbles DJ. (2011). Testing the structural stability of temporally dependent functional observations and application to climate projections. *Electronic Journal of Statistics*, 5, 1765-1796. [link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-5/issue-none/Testing-the-structural-stability-of-temporally-dependent-functional-observations-and/10.1214/11-EJS655.full)
+
+## 2010
+
+- Shao X, Zhang X. (2010). Testing for change points in time series. *Journal of the American Statistical Association*, 105(491), 1228-1240. [link](/downloads/cp2010.pdf) | [R codes](/downloads/Change-point.txt)
+
 
