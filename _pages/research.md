@@ -81,6 +81,7 @@ permalink: /research
             <em>Distance and Kernel-Based Measures for Global and Local Two-Sample Conditional Distribution Testing</em>.
             arXiv, 2024.
             <a class="tag" href="https://arxiv.org/abs/2210.08149">arXiv</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
       </div>
@@ -334,7 +335,7 @@ permalink: /research
             <em>LinDA: Linear Models for Differential Abundance Analysis of Microbiome Compositional Data</em>.
             Genome Biology, 23:95, 2022.
             <a class="tag" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02655-5">Journal</a>
-            <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">CRAN: MicrobiomeStat</a>
+            <a class="tag" href="https://cran.r-project.org/web/packages/MicrobiomeStat/index.html">R: MicrobiomeStat</a>
             <a class="tag" href="https://github.com/zhouhj1994/LinDA">GitHub</a>
           </p>
         </div>
@@ -386,7 +387,7 @@ permalink: /research
             <em>D-MANOVA: fast distance-based multivariate analysis of variance for large-scale microbiome association studies</em>.
             Bioinformatics, 38 (1), 286-288, 2022.
             <a class="tag" href="https://doi.org/10.1093/bioinformatics/btab498">Journal</a>
-            <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">CRAN: GUniFrac</a>
+            <a class="tag" href="https://cran.r-project.org/web/packages/GUniFrac/index.html">R: GUniFrac</a>
           </p>
         </div>
       </div>
@@ -439,6 +440,7 @@ permalink: /research
             <em>High-dimensional Change-point Detection Using Generalized Homogeneity Metrics</em>.
             arXiv, 2021.
             <a class="tag" href="https://arxiv.org/abs/2105.08976">arXiv</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
       </div>
@@ -452,6 +454,7 @@ permalink: /research
             Electronic Journal of Statistics, 15, 5455-5522, 2021.
             <a class="tag" href="/downloads/kernel-based metrics.pdf">PDF</a>
             <a class="tag" href="/downloads/HM-slides.pdf">Slides</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
       </div>
@@ -477,6 +480,7 @@ permalink: /research
             <em>Distance-based and RKHS-based dependence metrics in high dimension</em>.
             The Annals of Statistics, 48 (6), 3366-3394, 2020.
             <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Distance-based-and-RKHS-based-dependence-metrics-in-high-dimension/10.1214/19-AOS1934.short">Journal</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
       </div>
@@ -504,7 +508,7 @@ permalink: /research
             <em>Distance metrics for measuring joint dependence with application to causal inference</em>.
             Journal of the American Statistical Association, 114 (528), 1638-1650, 2019.
             <a class="tag" href="https://doi.org/10.1080/01621459.2018.1513364">Journal</a>
-            <a class="tag" href="https://rdrr.io/github/shubhadeep4/jdcov/">R: jdcov</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
       </div>
@@ -531,7 +535,7 @@ permalink: /research
             <em>Testing mutual independence in high dimension via distance covariance</em>.
             Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80 (3), 455-480, 2018.
             <a class="tag" href="https://doi.org/10.1111/rssb.12259">Journal</a>
-            <a class="tag" href="/downloads/Independence-code.zip">R Codes</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
             <a class="tag" href="/downloads/Sep2017_Supp.pdf">Supplement</a>
           </p>
         </div>
@@ -560,7 +564,7 @@ permalink: /research
             Journal of the American Statistical Association, 112 (518), 757-768, 2017.
             <a class="tag" href="https://doi.org/10.1080/01621459.2016.1166114">Journal</a>
             <a class="tag" href="/downloads/ZC16-Supp.pdf">Supplement</a>
-            <a class="tag" href="https://cran.r-project.org/web/packages/SILM/index.html">CRAN: SILM</a>
+            <a class="tag" href="https://cran.r-project.org/web/packages/SILM/index.html">R: SILM</a>
           </p>
         </div>
       </div>
