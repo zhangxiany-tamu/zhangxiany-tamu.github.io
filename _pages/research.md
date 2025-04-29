@@ -36,6 +36,17 @@ permalink: /research
       </div>
     </article>
     <article class="media">
+          <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Lyu, P., Zhang, X., & Cao, H. (2025). Testing composite null hypotheses with high-dimensional dependent data: a computationally scalable FDR-controlling procedure. arXiv.
+            <a class="tag" href="https://arxiv.org/pdf/2404.05808">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
       <div class="media-content">
         <div class="content">
           <p>
