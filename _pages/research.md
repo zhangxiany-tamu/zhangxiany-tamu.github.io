@@ -199,7 +199,7 @@ permalink: /research
           <p>
             Pramanik, S., & Zhang, X. (2023). Structure adaptive elastic-net. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2006.02041">arXiv</a>
-            <a class="tag" href="https://github.com/sandy-pramanik/saenet">GitHub</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/SAEnet">GitHub</a>
           </p>
         </div>
       </div>
