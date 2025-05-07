@@ -429,8 +429,8 @@ permalink: /research
           <p>
             Lee, C. E., Zhang, X., & Shao, X. (2020). Testing conditional mean independence for functional data. <em>Biometrika</em>, <em>107</em>(2), 331-346.
             <a class="tag" href="https://doi.org/10.1093/biomet/asz070">Journal</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
             <a class="tag" href="/downloads/FMDD-supp.pdf">Supplement</a>
-            <a class="tag" href="/downloads/CodeCMDexample1.txt">R Code</a>
           </p>
         </div>
       </div>
@@ -477,6 +477,7 @@ permalink: /research
           <p>
             Zhang, X., Yao, S., & Shao, X. (2018). Conditional mean and quantile dependence testing in high dimension. <em>The Annals of Statistics</em>, <em>46</em>(1), 219-246.
             <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-1/Conditional-mean-and-quantile-dependence-testing-in-high-dimension/10.1214/17-AOS1548.full">Journal</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
             <a class="tag" href="/downloads/MDD-AOS-Supp-Jan2017.pdf">Supplement</a>
           </p>
         </div>
