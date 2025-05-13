@@ -30,7 +30,7 @@ permalink: /research
           <p>
             Yang, C., Zhang, X., & Chen, J. (2025). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">bioRxiv</a>
-            <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub</a>
+            <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
           </p>
         </div>
       </div>
@@ -41,6 +41,7 @@ permalink: /research
           <p>
             Zhou, H., Chen, J., & Zhang, X. (2025). BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1.full.pdf+html">bioRxiv</a>
+            <a class="tag" href="https://github.com/zhouhj1994/BMDD">GitHub</a>
           </p>
         </div>
       </div>
