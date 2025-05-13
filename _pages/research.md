@@ -39,8 +39,19 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Lyu, P., Zhang, X., & Cao, H. (2025). Testing composite null hypotheses with high-dimensional dependent data: a computationally scalable FDR-controlling procedure. arXiv.
-            <a class="tag" href="https://arxiv.org/pdf/2404.05808">arXiv</a>
+            Zhou, H., Chen, J., & Zhang, X. (2025). BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data. bioRxiv.
+            <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1.full.pdf+html">bioRxiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Li, X., & Zhang, X. (2025). fastcpd: Fast change point detection in R. <em>Journal of Statistical Software</em>.
+            <a class="tag" href="https://arxiv.org/abs/2404.05933">arXiv</a>
+            <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
           </p>
         </div>
       </div>
@@ -167,17 +178,6 @@ permalink: /research
             Garg, J., Zhang, X., & Zhou, Q. (2024). Soft-constrained Schrödinger bridge: A stochastic-control approach. AISTATS.
             <a class="tag" href="https://arxiv.org/abs/2403.01717">arXiv</a>
             <a class="tag" href="https://github.com/gargjhanvi/Soft-constrained-Schrodinger-Bridge-a-Stochastic-Control-Approach">Code</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Li, X., & Zhang, X. (2024). fastcpd: Fast change point detection in R. arXiv.
-            <a class="tag" href="https://arxiv.org/abs/2404.05933">arXiv</a>
-            <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
           </p>
         </div>
       </div>
