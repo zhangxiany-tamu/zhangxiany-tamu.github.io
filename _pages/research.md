@@ -31,7 +31,7 @@ permalink: /research
             Yang, C., Zhang, X., & Chen, J. (2025). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
-            <a class="tag" href="https://mllmcelltype.com/">Web Platform: mLLMCelltype</a>
+            <a class="tag" href="https://mllmcelltype.com/">Web Platform</a>
           </p>
         </div>
       </div>
@@ -42,6 +42,7 @@ permalink: /research
           <p>
             Zhou, H., Chen, J., & Zhang, X. (2025). BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1.full.pdf+html">bioRxiv</a>
+            <a class="tag" href="/downloads/BMDD_supp.pdf">Supplement</a>
             <a class="tag" href="https://github.com/zhouhj1994/BMDD">GitHub</a>
           </p>
         </div>
@@ -54,6 +55,7 @@ permalink: /research
             Li, X., & Zhang, X. (2025). fastcpd: Fast change point detection in R. <em>Journal of Statistical Software</em>.
             <a class="tag" href="https://arxiv.org/abs/2404.05933">arXiv</a>
             <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
+            <a class="tag" href="https://fastcpd.xingchi.li/python/fastcpd.html">Python: fastcpd</a>
           </p>
         </div>
       </div>
@@ -72,7 +74,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Li, X., Li, G., & Zhang, X. (2025). A likelihood based approach for watermark detection. AISTATS.
+            Li, X., Li, G., & Zhang, X. (2025). A likelihood-based approach for watermark detection. AISTATS.
           </p>
         </div>
       </div>
@@ -179,7 +181,7 @@ permalink: /research
           <p>
             Garg, J., Zhang, X., & Zhou, Q. (2024). Soft-constrained Schrödinger bridge: A stochastic-control approach. AISTATS.
             <a class="tag" href="https://arxiv.org/abs/2403.01717">arXiv</a>
-            <a class="tag" href="https://github.com/gargjhanvi/Soft-constrained-Schrodinger-Bridge-a-Stochastic-Control-Approach">Code</a>
+            <a class="tag" href="https://github.com/gargjhanvi/Soft-constrained-Schrodinger-Bridge-a-Stochastic-Control-Approach">GitHub</a>
           </p>
         </div>
       </div>
