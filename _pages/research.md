@@ -52,6 +52,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Cirkovic, D., Wang, T., & Zhang, X. (2025). Likelihood-based changepoint detection in preferential attachment networks. <em>IEEE Transactions on Network Science and Engineering</em>.
+            <a class="tag" href="https://arxiv.org/abs/2206.01076">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Li, X., & Zhang, X. (2025). fastcpd: Fast change point detection in R. <em>Journal of Statistical Software</em>.
             <a class="tag" href="https://arxiv.org/abs/2404.05933">arXiv</a>
             <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
@@ -283,17 +293,6 @@ permalink: /research
         </div>
       </div>
     </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Cirkovic, D., Wang, T., & Zhang, X. (2022). Likelihood-based changepoint detection in preferential attachment networks. arXiv.
-            <a class="tag" href="https://arxiv.org/abs/2206.01076">arXiv</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
       <div class="media-content">
         <div class="content">
           <p>
