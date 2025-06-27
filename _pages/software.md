@@ -52,7 +52,7 @@ permalink: /software
         <div class="content">
           <p>
             <strong>R Package Analytics</strong> <span class="tag is-white">2025</span><br />
-            A comprehensive web application for analyzing R package download statistics from CRAN. Features interactive visualizations, multi-package comparisons, trend forecasting, and detailed package information. Built with Node.js and Chart.js, it provides insights into package popularity, usage patterns, and download trends across different time periods with autocomplete search across all ~22,000 CRAN packages.
+            A simple web app to analyze R package download statistics from CRAN.
           </p>
           <div class="field is-grouped is-grouped-multiline">
             <div class="control">
