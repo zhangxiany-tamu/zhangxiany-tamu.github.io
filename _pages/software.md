@@ -121,6 +121,16 @@ permalink: /software
             mLLMCelltype is an iterative multi-LLM consensus framework for cell type annotation in single-cell RNA sequencing data. By leveraging the complementary strengths of multiple large language models (OpenAI GPT-4o/4.1, Anthropic Claude-3.7/3.5, Google Gemini-2.0, X.AI Grok-3, DeepSeek-V3, Alibaba Qwen2.5, Zhipu GLM-4, MiniMax, Stepfun, and OpenRouter), this framework significantly improves annotation accuracy while providing transparent uncertainty quantification.
           </p>
           <div class="field is-grouped is-grouped-multiline">
+           <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://mllmcelltype.com/"
+                  >Live App</a
+                >
+              </div>
+            </div>
             <div class="control">
               <div class="tags has-addons">
                 <span class="tag is-dark"
@@ -160,6 +170,16 @@ permalink: /software
 It can be applied to change-point detection in linear models, generalized linear models, robust regression, penalized regression, autoregressive models, etc.
           </p>
           <div class="field is-grouped is-grouped-multiline">
+             <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://zhangxianyang.shinyapps.io/fastcpd_webapp/"
+                  >Live App</a
+                >
+              </div>
+            </div>
             <div class="control">
               <div class="tags has-addons">
                 <span class="tag is-dark"
