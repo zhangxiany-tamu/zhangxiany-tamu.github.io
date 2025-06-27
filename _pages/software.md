@@ -5,7 +5,6 @@ excerpt: "Xianyang Zhang -- Software"
 sitemap: false
 permalink: /software
 ---
-
 <div markdown="0" class="hero-body">
   <div class="container">
     <article class="media">
@@ -34,6 +33,44 @@ permalink: /software
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/AutoStat"
+                  >GitHub</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+    <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
+          <img src="/images/r-analytics-logo.png" />
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content">
+          <p>
+            <strong>R Package Analytics</strong> <span class="tag is-white">2025</span><br />
+            A comprehensive web application for analyzing R package download statistics from CRAN. Features interactive visualizations, multi-package comparisons, trend forecasting, and detailed package information. Built with Node.js and Chart.js, it provides insights into package popularity, usage patterns, and download trends across different time periods with autocomplete search across all ~22,000 CRAN packages.
+          </p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://melodic-zoo-458222-s6.uc.r.appspot.com/"
+                  >Live App</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-code-fork" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://github.com/zhangxiany-tamu/r-package-analytics"
                   >GitHub</a
                 >
               </div>
@@ -119,7 +156,7 @@ permalink: /software
         <div class="content">
           <p>
             <strong>fastcpd (Beta version)</strong> <span class="tag is-white">2023</span><br />
-            fastcpd implements an algorithm based on the sequential gradient descent and quasi-Newton’s method for change-point analysis.  
+            fastcpd implements an algorithm based on the sequential gradient descent and quasi-Newton's method for change-point analysis.  
 It can be applied to change-point detection in linear models, generalized linear models, robust regression, penalized regression, autoregressive models, etc.
           </p>
           <div class="field is-grouped is-grouped-multiline">
