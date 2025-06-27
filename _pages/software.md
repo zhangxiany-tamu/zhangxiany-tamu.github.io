@@ -45,7 +45,7 @@ permalink: /software
     <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/r-analytics-logo.png" />
+          <img src="/images/Rlogo.png" />
         </figure>
       </div>
       <div class="column">
