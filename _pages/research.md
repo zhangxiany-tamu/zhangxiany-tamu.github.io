@@ -31,7 +31,7 @@ permalink: /research
             Yang, C., Zhang, X., & Chen, J. (2025). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
-            <a class="tag" href="https://mllmcelltype.com/">Web Platform</a>
+            <a class="tag" href="https://mllmcelltype.com/">Web App</a>
           </p>
         </div>
       </div>
@@ -65,6 +65,7 @@ permalink: /research
             Li, X., & Zhang, X. (2025). fastcpd: Fast change point detection in R. <em>Journal of Statistical Software</em>.
             <a class="tag" href="https://arxiv.org/abs/2404.05933">arXiv</a>
             <a class="tag" href="https://fastcpd.xingchi.li/">R: fastcpd</a>
+            <a class="tag" href="https://zhangxianyang.shinyapps.io/fastcpd_webapp/">Web App</a>
             <a class="tag" href="https://fastcpd.xingchi.li/python/fastcpd.html">Python: fastcpd</a>
           </p>
         </div>
@@ -213,7 +214,7 @@ permalink: /research
           <p>
             Pramanik, S., & Zhang, X. (2023). Structure adaptive elastic-net. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2006.02041">arXiv</a>
-            <a class="tag" href="https://github.com/zhangxiany-tamu/SAEnet">GitHub</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/SAEnet">GitHub: SAEnet</a>
           </p>
         </div>
       </div>
