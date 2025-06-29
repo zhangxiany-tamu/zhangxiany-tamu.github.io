@@ -45,7 +45,7 @@ permalink: /software
     <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/RA.jpg" />
+          <img src="/images/RA.png" />
         </figure>
       </div>
       <div class="column">
@@ -83,7 +83,7 @@ permalink: /software
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/CPO.jpg" />
+          <img src="/images/CPO.png" />
         </figure>
       </div>
       <div class="column">
