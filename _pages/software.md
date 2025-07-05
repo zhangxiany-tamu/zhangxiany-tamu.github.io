@@ -52,7 +52,7 @@ permalink: /software
         <div class="content">
           <p>
             <strong>R Package Analytics</strong> <span class="tag is-white">2025</span><br />
-            A simple web app to analyze R package download statistics from CRAN.
+            A simple web app to analyze R package download statistics from CRAN and Bioconductor.
           </p>
           <div class="field is-grouped is-grouped-multiline">
             <div class="control">
