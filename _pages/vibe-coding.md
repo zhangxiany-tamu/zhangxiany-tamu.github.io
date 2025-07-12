@@ -11,7 +11,6 @@ permalink: /vibe-coding
       <div class="media-content">
         <div class="content">
           <h1>Vibe Coding Projects</h1>
-          <p>These are software projects developed using vibe coding.</p>
         </div>
       </div>
     </article>
