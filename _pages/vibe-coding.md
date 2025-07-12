@@ -127,5 +127,9 @@ permalink: /vibe-coding
         </div>
       </div>
     </div>
+    
+    <!-- Add spacing to balance top margin -->
+    <div style="height: 200px;"></div>
+    
   </div>
 </div>
