@@ -11,11 +11,10 @@ permalink: /vibe-coding
       <div class="media-content">
         <div class="content">
           <h1>Vibe Coding Projects</h1>
-          <p>These are software projects developed using vibe coding - a creative and intuitive approach to software development.</p>
         </div>
       </div>
     </article>
-    <div class="columns">
+         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
           <img src="/images/RA.png" />
