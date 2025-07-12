@@ -5,6 +5,7 @@ excerpt: "Xianyang Zhang -- Vibe Coding Projects"
 sitemap: false
 permalink: /vibe-coding
 ---
+<!-- Force rebuild -->
 <div markdown="0" class="hero-body">
   <div class="container">
     <article class="media">
