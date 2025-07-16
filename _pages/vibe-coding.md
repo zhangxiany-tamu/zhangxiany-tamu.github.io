@@ -116,6 +116,16 @@ permalink: /vibe-coding
             <div class="control">
               <div class="tags has-addons">
                 <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://research-tracker-466018.uc.r.appspot.com"
+                  >Live App</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/research_tracker"
