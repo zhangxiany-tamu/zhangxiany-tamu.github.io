@@ -33,7 +33,7 @@ permalink: /vibe-coding
       <div class="column">
         <div class="content">
           <p>
-            <strong>TimePoint</strong> <span class="tag is-white">2025</span><br />
+            <strong>Timepoint</strong> <span class="tag is-white">2025</span><br />
             A web app to schedule meetings and create sign-up sheets with the help from AI assistant.
           </p>
           <div class="field is-grouped is-grouped-multiline">
