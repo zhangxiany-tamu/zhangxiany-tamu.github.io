@@ -27,6 +27,110 @@ permalink: /vibe-coding
          <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
+          <img src="/images/timepoint-logo.png" />
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content">
+          <p>
+            <strong>TimePoint</strong> <span class="tag is-white">2025</span><br />
+            A web app to schedule meetings and create sign-up sheets with the help from AI assistant.
+          </p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://timepoint-frontend-266782116285.us-central1.run.app/"
+                  >Live App</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+        <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
+          <img src="/images/google-scholar-analytics-logo.png" />
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content">
+          <p>
+            <strong>Google Scholar Analytics</strong> <span class="tag is-white">2025</span><br />
+            A web application for analyzing Google Scholar citation data and academic metrics.
+          </p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://scholar-frontend-771064042567.us-central1.run.app/"
+                  >Live App</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-code-fork" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://github.com/zhangxiany-tamu/google-scholar-analytics"
+                  >GitHub</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+        <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
+          <img src="/images/rt-logo.png" />
+        </figure>
+      </div>
+      <div class="column">
+        <div class="content">
+          <p>
+            <strong>Research Tracker</strong> <span class="tag is-white">2025</span><br />
+            A simple web app for tracking recent papers from statistics and machine learning journals.
+          </p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://research-tracker-466018.uc.r.appspot.com"
+                  >Live App</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-code-fork" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://github.com/zhangxiany-tamu/research_tracker"
+                  >GitHub</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+        <div class="columns">
+      <div class="column is-1">
+        <figure class="image is-1by1">
           <img src="/images/RA.png" />
         </figure>
       </div>
@@ -91,82 +195,6 @@ permalink: /vibe-coding
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/Crypto_Portfolio"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
-        <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/rt-logo.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>Research Tracker</strong> <span class="tag is-white">2025</span><br />
-            A simple web app for tracking recent papers from statistics and machine learning journals.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-globe" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://research-tracker-466018.uc.r.appspot.com"
-                  >Live App</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/zhangxiany-tamu/research_tracker"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
-        <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/google-scholar-analytics-logo.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>Google Scholar Analytics</strong> <span class="tag is-white">2025</span><br />
-            A web application for analyzing Google Scholar citation data and academic metrics.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-globe" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://scholar-frontend-771064042567.us-central1.run.app/"
-                  >Live App</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/zhangxiany-tamu/google-scholar-analytics"
                   >GitHub</a
                 >
               </div>
