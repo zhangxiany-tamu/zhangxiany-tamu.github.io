@@ -19,7 +19,7 @@ permalink: /teaching
         <div class="content">
           <h3>STAT 620 Asymptotic Statistics</h3>
           <details>
-            <summary style="cursor: pointer; font-weight: bold; padding: 10px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; margin-bottom: 10px;">📚 View Lecture Notes (27 lectures)</summary>
+            <summary style="cursor: pointer; font-weight: bold; padding: 12px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; margin-bottom: 10px; color: #495057;">View Lecture Notes (27 lectures)</summary>
             <div style="margin-top: 10px;">
               <table class="table">
                 <thead>
@@ -65,7 +65,7 @@ permalink: /teaching
         <div class="content">
           <h3>STAT 689 Large-scale and high-dimensional statistical inference</h3>
           <details>
-            <summary style="cursor: pointer; font-weight: bold; padding: 10px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; margin-bottom: 10px;">📚 View Lecture Notes (15 lectures)</summary>
+            <summary style="cursor: pointer; font-weight: bold; padding: 12px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; margin-bottom: 10px; color: #495057;">View Lecture Notes (15 lectures)</summary>
             <div style="margin-top: 10px;">
               <table class="table">
                 <thead>
