@@ -165,7 +165,7 @@ permalink: /vibe-coding
         </div>
       </div>
     </div>
-    <hr />
+    <!-- <hr />
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
@@ -202,7 +202,7 @@ permalink: /vibe-coding
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     
     <!-- Add spacing to balance top margin -->
     <div style="height: 200px;"></div>
