@@ -131,7 +131,7 @@ permalink: /vibe-coding
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
-          <img src="/images/RA.png" />
+          <img src="/images/RA.png?v=2025" />
         </figure>
       </div>
       <div class="column">
