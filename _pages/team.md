@@ -24,8 +24,6 @@ permalink: /team
           <h1>Current PhD students</h1>
           <p><ul>
             <li><a  href="https://cafferyang.com/">Chen Yang</a> (Co-directed with Jun Chen)</li>
-            <li><a  href="https://xingchi.li">Xingchi Li</a></li>
-            <li>Daniel Cirkovic (Co-directed with <a  href="https://tw398.github.io/twang/">Tiandong Wang</a> and Daren Cline)</li>
             <li>Weiwei Wang (Co-directed with Raymond Wong)</li>
           </ul></p>
         </div>
@@ -36,6 +34,8 @@ permalink: /team
         <div class="content">
           <h1>PhD and Postdoc Alumni</h1>
           <p><ul>
+          <li>Daniel Cirkovic (Co-directed with <a  href="https://tw398.github.io/twang/">Tiandong Wang</a> and Daren Cline)<br/>Current Position: Assistant Professor at Marquette University</li>
+          <li><a  href="https://xingchi.li">Xingchi Li</a><br/>Current Position: Software Engineer at Google</li>
           <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Assistant Professor at Beijing Normal University at Zhuhai</li>
           <li>Linsui Deng (Co-directed with Kejun He)<br/>Current Position: Postdoc at Chinese University of Hong Kong, Shenzhen</li>
           <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>

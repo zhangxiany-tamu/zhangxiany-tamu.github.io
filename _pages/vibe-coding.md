@@ -165,7 +165,7 @@ permalink: /vibe-coding
         </div>
       </div>
     </div>
-    <!-- <hr />
+    <hr />
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
@@ -175,8 +175,8 @@ permalink: /vibe-coding
       <div class="column">
         <div class="content">
           <p>
-            <strong>Crypto Portfolio Optimization</strong> <span class="tag is-white">2025</span><br />
-            A web application for cryptocurrency portfolio optimization and analysis.
+            <strong>Crypto Portfolio Optimizer</strong> <span class="tag is-white">2025</span><br />
+            A cryptocurrency portfolio analysis and optimization tool with technical analysis and machine learning predictions.
           </p>
           <div class="field is-grouped is-grouped-multiline">
             <div class="control">
@@ -202,7 +202,7 @@ permalink: /vibe-coding
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
     
     <!-- Add spacing to balance top margin -->
     <div style="height: 200px;"></div>
