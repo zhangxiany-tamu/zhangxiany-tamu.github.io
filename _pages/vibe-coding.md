@@ -70,7 +70,7 @@ permalink: /vibe-coding
                 <span class="tag is-dark"
                   ><i class="fa fa-globe" aria-hidden="true"></i
                 ></span>
-                <a class="tag" href="https://scholar-frontend-771064042567.us-central1.run.app/"
+                <a class="tag" href="https://scholar-frontend-optimized-771064042567.us-central1.run.app/"
                   >Live App</a
                 >
               </div>
