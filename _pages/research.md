@@ -52,6 +52,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Li, G., & Zhang, X. (2025). A General Framework for Multiple Testing via E-value Aggregation and Data-Dependent Weighting. arXiv.
+            <a class="tag" href="https://arxiv.org/abs/2312.02905">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Cirkovic, D., Wang, T., & Zhang, X. (2025). Likelihood-based changepoint detection in preferential attachment networks. <em>IEEE Transactions on Network Science and Engineering</em>.
             <a class="tag" href="https://arxiv.org/abs/2206.01076">arXiv</a>
           </p>
@@ -198,16 +208,6 @@ permalink: /research
       </div>
     </article>
     <h2 style="margin-top: 1.5rem; margin-bottom: 1rem;">2023</h2>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Li, G., & Zhang, X. (2023). E-values, multiple testing and beyond. arXiv.
-            <a class="tag" href="https://arxiv.org/abs/2312.02905">arXiv</a>
-          </p>
-        </div>
-      </div>
-    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
