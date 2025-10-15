@@ -148,7 +148,17 @@ It can be applied to change-point detection in linear models, generalized linear
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/doccstat/fastcpd"
-                  >GitHub</a
+                  >GitHub (R)</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
+                  ><i class="fa fa-code-fork" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://github.com/zhangxiany-tamu/fastcpd_Python"
+                  >GitHub (Python)</a
                 >
               </div>
             </div>
