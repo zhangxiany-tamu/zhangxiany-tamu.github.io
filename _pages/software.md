@@ -30,6 +30,16 @@ permalink: /software
             <div class="control">
               <div class="tags has-addons">
                 <span class="tag is-dark"
+                  ><i class="fa fa-globe" aria-hidden="true"></i
+                ></span>
+                <a class="tag" href="https://zhangxianyang.shinyapps.io/AutoStat/"
+                  >Live App</a
+                >
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag is-dark"
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/AutoStat"
