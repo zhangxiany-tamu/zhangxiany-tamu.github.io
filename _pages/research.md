@@ -43,7 +43,7 @@ permalink: /research
             Zhou, H., Chen, J., & Zhang, X. (2025). BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data. <em>PLOS Computational Biology</em>.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1.full.pdf+html">bioRxiv</a>
             <a class="tag" href="/downloads/BMDD_supp.pdf">Supplement</a>
-            <a class="tag" href="https://github.com/zhouhj1994/BMDD">GitHub</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/BMDD">GitHub</a>
           </p>
         </div>
       </div>
