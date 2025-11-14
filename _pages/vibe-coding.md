@@ -13,6 +13,7 @@ permalink: /vibe-coding
           <h1>Vibe Coding Projects</h1>
           <p>
             These projects are developed using <a href="https://en.wikipedia.org/wiki/Vibe_coding">vibe coding</a>.
+            These tools are primarily informational and available for anyone to use for free.
           </p>
         </div>
       </div>
