@@ -96,6 +96,7 @@ permalink: /research
         <div class="content">
           <p>
             Li, X., Li, G., & Zhang, X. (2025). A likelihood-based approach for watermark detection. AISTATS.
+            <a class="tag" href="https://proceedings.mlr.press/v258/li25d.html">Paper</a>
           </p>
         </div>
       </div>
@@ -107,6 +108,17 @@ permalink: /research
           <p>
             Roy, A., Zhou, H., Zhao, N., & Zhang, X. (2024). Subsampling-based tests in mediation analysis. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2411.10648">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Roy, A. & Zhang, X. (2024). Powerful large-scale inference in high dimensional mediation analysis. arXiv.
+            <a class="tag" href="https://arxiv.org/abs/2402.13933">arXiv</a>
+            <a class="tag" href="https://github.com/asmita112358/MLFDR">GitHub</a>
           </p>
         </div>
       </div>
