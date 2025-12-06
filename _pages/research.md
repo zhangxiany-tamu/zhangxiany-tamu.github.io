@@ -96,7 +96,7 @@ permalink: /research
         <div class="content">
           <p>
             Li, X., Li, G., & Zhang, X. (2025). A likelihood-based approach for watermark detection. AISTATS.
-            <a class="tag" href="https://proceedings.mlr.press/v258/li25d.html">Paper</a>
+            <a class="tag" href="https://proceedings.mlr.press/v258/li25d.html">PMLR</a>
           </p>
         </div>
       </div>
