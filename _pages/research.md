@@ -28,6 +28,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Yang, C., Zhang, X., & Chen, J. (2025). FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching. bioRxiv.
+            <a class="tag" href="https://www.biorxiv.org/content/10.64898/2025.12.22.696108v1">bioRxiv</a>
+            <a class="tag" href="https://github.com/cafferychen777/flashdeconv">GitHub: flashdeconv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Yang, C., Zhang, X., & Chen, J. (2025). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
