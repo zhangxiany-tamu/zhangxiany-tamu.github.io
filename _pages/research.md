@@ -28,7 +28,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair Regression under Demographic Parity: A Unified Framework. arXiv.
+            Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair regression under demographic parity: a unified framework. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2601.10623">arXiv</a>
           </p>
         </div>
@@ -73,7 +73,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhou, H., Chen, J., & Zhang, X. (2025). BMDD: A Probabilistic Framework for Accurate Imputation of Zero-inflated Microbiome Sequencing Data. <em>PLOS Computational Biology</em>.
+            Zhou, H., Chen, J., & Zhang, X. (2025). BMDD: a probabilistic framework for accurate imputation of zero-inflated microbiome sequencing data. <em>PLOS Computational Biology</em>.
             <a class="tag" href="https://www.biorxiv.org/content/10.1101/2025.05.08.652808v1.full.pdf+html">bioRxiv</a>
             <a class="tag" href="/downloads/BMDD_supp.pdf">Supplement</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/BMDD">GitHub</a>
@@ -85,7 +85,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Li, G., & Zhang, X. (2025). A General Framework for Multiple Testing via E-value Aggregation and Data-Dependent Weighting. arXiv.
+            Li, G., & Zhang, X. (2025). A general framework for multiple testing via e-value aggregation and data-dependent weighting. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2312.02905">arXiv</a>
           </p>
         </div>
