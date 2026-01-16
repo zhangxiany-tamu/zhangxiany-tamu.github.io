@@ -23,6 +23,28 @@ permalink: /research
         </div>
       </div>
     </article>
+    <h2 style="margin-top: 1.5rem; margin-bottom: 1rem;">2026</h2>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair Regression under Demographic Parity: A Unified Framework. arXiv.
+            <a class="tag" href="https://arxiv.org/abs/2601.10623">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Roy, A. & Zhang, X. (2026). Powerful large-scale inference in high dimensional mediation analysis. <em>PLOS Computational Biology</em>.
+            <a class="tag" href="https://arxiv.org/abs/2402.13933">arXiv</a>
+            <a class="tag" href="https://github.com/asmita112358/MLFDR">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
     <h2 style="margin-top: 1.5rem; margin-bottom: 1rem;">2025</h2>
     <article class="media">
       <div class="media-content">
@@ -119,17 +141,6 @@ permalink: /research
           <p>
             Roy, A., Zhou, H., Zhao, N., & Zhang, X. (2024). Subsampling-based tests in mediation analysis. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2411.10648">arXiv</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Roy, A. & Zhang, X. (2024). Powerful large-scale inference in high dimensional mediation analysis. arXiv.
-            <a class="tag" href="https://arxiv.org/abs/2402.13933">arXiv</a>
-            <a class="tag" href="https://github.com/asmita112358/MLFDR">GitHub</a>
           </p>
         </div>
       </div>
@@ -444,7 +455,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhu, C., Zhang, X., Yao, S., & Shao, X. (2020). Distance-based and RKHS-based dependence metrics in high dimension. <em>The Annals of Statistics</em>, <em>48</em>(6), 3366-3394.
+            Zhu, C., Zhang, X., Yao, S., & Shao, X. (2020). Distance-based and RKHS-based dependence metrics in high dimension. <em>Annals of Statistics</em>, <em>48</em>(6), 3366-3394.
             <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-6/Distance-based-and-RKHS-based-dependence-metrics-in-high-dimension/10.1214/19-AOS1934.short">Journal</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
@@ -503,7 +514,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhang, X., Yao, S., & Shao, X. (2018). Conditional mean and quantile dependence testing in high dimension. <em>The Annals of Statistics</em>, <em>46</em>(1), 219-246.
+            Zhang, X., Yao, S., & Shao, X. (2018). Conditional mean and quantile dependence testing in high dimension. <em>Annals of Statistics</em>, <em>46</em>(1), 219-246.
             <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-1/Conditional-mean-and-quantile-dependence-testing-in-high-dimension/10.1214/17-AOS1548.full">Journal</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
             <a class="tag" href="/downloads/MDD-AOS-Supp-Jan2017.pdf">Supplement</a>
@@ -624,7 +635,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhang, X., & Shao, X. (2013). Fixed-smoothing asymptotics for time series. <em>The Annals of Statistics</em>, <em>41</em>(3), 1329-1349.
+            Zhang, X., & Shao, X. (2013). Fixed-smoothing asymptotics for time series. <em>Annals of Statistics</em>, <em>41</em>(3), 1329-1349.
             <a class="tag" href="https://projecteuclid.org/journals/annals-of-statistics/volume-41/issue-3/Fixed-smoothing-asymptotics-for-time-series/10.1214/13-AOS1113.full">Journal</a>
           </p>
         </div>
