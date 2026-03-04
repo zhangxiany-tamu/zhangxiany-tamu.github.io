@@ -28,6 +28,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Yang, C., Zhang, X., & Chen, J. (2026). ChatSpatial: Schema-enforced agentic orchestration for reproducible and cross-platform spatial transcriptomics. bioRxiv.
+            <a class="tag" href="https://www.biorxiv.org/content/early/2026/03/01/2026.02.26.708361">bioRxiv</a>
+            <a class="tag" href="https://github.com/cafferychen777/ChatSpatial">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair regression under demographic parity: a unified framework. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2601.10623">arXiv</a>
           </p>
