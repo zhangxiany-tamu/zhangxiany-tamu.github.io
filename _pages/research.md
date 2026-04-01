@@ -28,6 +28,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Yang, C., Zhang, X., & Chen, J. (2026). Intercellular communication is a heritable dimension of human tissue architecture. bioRxiv.
+            <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.29.715138v1">bioRxiv</a>
+            <a class="tag" href="https://github.com/cafferychen777/EdgeMap">GitHub: EdgeMap</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). Frequency-domain kernels enable atlas-scale detection of spatially variable genes. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.12.711372v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/FlashS">GitHub: FlashS</a>
