@@ -25,6 +25,7 @@ permalink: /team
           <p><ul>
             <li><a  href="https://cafferyang.com/">Chen Yang</a> (Co-directed with Jun Chen)</li>
             <li>Weiwei Wang (Co-directed with Raymond Wong)</li>
+            <li>Caleb Kahan</li>
           </ul></p>
         </div>
       </div>
@@ -41,7 +42,7 @@ permalink: /team
           <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>
           <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Postdoc at University of Pennsylvania</li>
           <li>Jian Yan<br/>Current Position: Postdoc at Cornell</li>
-            <li><a href="https://ssm.sufe.edu.cn/c6/27/c718a181799/page.htm">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
+            <li><a href="https://zhouhj1994.github.io/">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
             <li><a href="https://experts.okstate.edu/sayi">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
             <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Senior Manager at Bristol Myers Squibb</li>
             <li><a href="https://scholar.google.com/citations?user=dQ0ze2gAAAAJ&hl=en">Shun Yao</a> (Co-directed with Xiaofeng Shao)<br/>Current Position: Quantitative Researcher at Point72</li>
