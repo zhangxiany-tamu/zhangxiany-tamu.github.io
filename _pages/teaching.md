@@ -64,34 +64,7 @@ permalink: /teaching
       <div class="media-content">
         <div class="content">
           <h3>STAT 689 Large-scale and high-dimensional statistical inference</h3>
-          <details>
-            <summary style="cursor: pointer; font-weight: bold; padding: 12px; background-color: #f8f9fa; border: 1px solid #dee2e6; border-radius: 4px; margin-bottom: 10px; color: #495057;">View Lecture Notes (15 lectures)</summary>
-            <div style="margin-top: 10px;">
-              <table class="table">
-                <thead>
-                  <tr><th>Lecture Notes</th><th>Topics</th></tr>
-                </thead>
-                <tbody>
-                  <tr><td><a href="/downloads/689fa24/Lec1.pdf">Lecture 1</a></td><td>Testing the global null, Bonferroni's test</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec2.pdf">Lecture 2</a></td><td>Fisher's combination test</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec3.pdf">Lecture 3</a></td><td>Simes test, Goodness of fit tests, Higher-criticism test</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec4.pdf">Lecture 4</a></td><td>FWER controlling procedures, Closure principle</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec5.pdf">Lecture 5</a></td><td>Graphical procedures</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec6.pdf">Lecture 6</a></td><td>False discovery rate, BH procedure, Barber and Candès procedure</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec7.pdf">Lecture 7</a></td><td>PRDS property</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec8.pdf">Lecture 8</a></td><td>Empirical process viewpoint, Bayesian viewpoint, Positive false discovery rate and q-values</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec9.pdf">Lecture 9</a></td><td>E-values</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec10-1.pdf">Lecture 10: Part I</a></td><td>Conditional randomization tests, Knockoff filter</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec10-2.pdf">Lecture 10: Part II</a></td><td>Knockoff filter</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec11.pdf">Lecture 11</a></td><td>Conformal prediction</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec12.pdf">Lecture 12</a></td><td>Debiased Lasso</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec13.pdf">Lecture 13</a></td><td>Selective inference</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec14.pdf">Lecture 14</a></td><td>Selective inference</td></tr>
-                  <tr><td><a href="/downloads/689fa24/Lec15.pdf">Lecture 15</a></td><td>Applications to LLMs</td></tr>
-                </tbody>
-              </table>
-            </div>
-          </details>
+          <p>Course notes have been folded into the draft <a href="/book"><em>Multiplicity, Selection, and Modern Statistical Inference</em></a>.</p>
         </div>
       </div>
     </article>
