@@ -11,13 +11,13 @@ permalink: /book
     <article class="media">
       <div class="media-content">
         <div class="content">
-          <span class="tag is-light">Draft, May 2026</span>
+          <span class="tag is-light">Draft, June 2026</span>
           <h1 style="margin-top: 12px;">Multiplicity, Selection, and Modern Statistical Inference</h1>
           <p>
             An in-progress draft. Topics include multiple testing, false discovery rates, e-values, knockoffs, conformal prediction, debiased inference, and selective inference.
           </p>
           <p>
-            <a class="button is-link" href="/downloads/book/multiplicity-selection-modern-statistical-inference-draft-may-2026.pdf">
+            <a class="button is-link" href="/downloads/book/multiplicity-selection-modern-statistical-inference-draft-june-2026.pdf">
               Download draft (PDF)
             </a>
           </p>
@@ -63,7 +63,7 @@ permalink: /book
             The draft grew out of notes for <a href="/teaching">STAT 689</a> and will be used for the course next semester.
           </p>
           <p style="color: #5e6673; font-size: 0.95rem;">
-            Suggested citation: Zhang, X. (2026). <em>Multiplicity, Selection, and Modern Statistical Inference</em>. Draft version, May 2026.
+            Suggested citation: Zhang, X. (2026). <em>Multiplicity, Selection, and Modern Statistical Inference</em>. Draft version, June 2026.
           </p>
         </div>
       </div>
