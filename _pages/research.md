@@ -28,18 +28,6 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2026). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. <em>Communications Biology</em>.
-            <a class="tag" href="https://www.nature.com/articles/s42003-026-10420-8">Journal</a>
-            <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
-            <a class="tag" href="https://mllmcelltype.com/">Web App</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). Intercellular communication is a heritable dimension of human tissue architecture. bioRxiv.
             <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.29.715138v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/EdgeMap">GitHub: EdgeMap</a>
@@ -75,6 +63,18 @@ permalink: /research
           <p>
             Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair regression under demographic parity: a unified framework. arXiv.
             <a class="tag" href="https://arxiv.org/abs/2601.10623">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Yang, C., Zhang, X., & Chen, J. (2026). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. <em>Communications Biology</em>.
+            <a class="tag" href="https://www.nature.com/articles/s42003-026-10420-8">Journal</a>
+            <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
+            <a class="tag" href="https://mllmcelltype.com/">Web App</a>
           </p>
         </div>
       </div>
