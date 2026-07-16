@@ -44,7 +44,11 @@ permalink: /book
             <li>Conformal prediction</li>
             <li>Debiased Lasso</li>
             <li>Selective inference</li>
-            <li>Applications: genomics and large language models</li>
+            <li>Applications and research frontiers</li>
+            <li>Appendix: Advanced safe and sequential inference</li>
+            <li>Appendix: Advanced conformal theory</li>
+            <li>Appendix: Method-selection matrix</li>
+            <li>Appendix: Glossary</li>
           </ul>
         </div>
       </div>
