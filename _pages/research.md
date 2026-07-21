@@ -647,6 +647,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Zhang, X., & Shao, X. (2014). Fixed-b asymptotics for blockwise empirical likelihood. <em>Statistica Sinica</em>, <em>24</em>(3), 1179-1194.
+            <a class="tag" href="https://www.jstor.org/stable/24310983?seq=1#metadata_info_tab_contents">Journal</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Zhang, X., & Cheng, G. (2014). Bootstrapping high dimensional time series. arXiv.
             <a class="tag" href="https://arxiv.org/abs/1406.1037">arXiv</a>
           </p>
