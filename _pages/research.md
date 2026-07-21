@@ -436,16 +436,6 @@ permalink: /research
         </div>
       </div>
     </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Yi, S., & Zhang, X. (2022). Projection-based inference for high-dimensional linear models. <em>Statistica Sinica</em>, <em>32</em>, 1-23.
-            <a class="tag" href="/downloads/BRP.pdf">PDF</a>
-          </p>
-        </div>
-      </div>
-    </article>
     <h2 style="margin-top: 1.5rem; margin-bottom: 1rem;">2021</h2>
     <article class="media">
       <div class="media-content">
@@ -653,16 +643,6 @@ permalink: /research
       </div>
     </article>
     <h2 style="margin-top: 1.5rem; margin-bottom: 1rem;">2014</h2>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Zhang, X., & Shao, X. (2014). Fixed-b asymptotics for blockwise empirical likelihood. <em>Statistica Sinica</em>, <em>24</em>(3), 1179-1194.
-            <a class="tag" href="https://www.jstor.org/stable/24310983?seq=1#metadata_info_tab_contents">Journal</a>
-          </p>
-        </div>
-      </div>
-    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
