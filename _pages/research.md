@@ -28,7 +28,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2026). Intercellular communication is a heritable dimension of human tissue architecture. bioRxiv.
+            Zhang, X. (2026). Mirror and knockoff+ thresholds under dependence.
+            <a class="tag" href="https://arxiv.org/abs/2607.17084">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
+            Yang, C., Zhang, X., & Chen, J. (2026). Intercellular communication is a heritable dimension of human tissue architecture.
             <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.29.715138v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/EdgeMap">GitHub: EdgeMap</a>
           </p>
@@ -39,7 +49,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2026). Frequency-domain kernels enable atlas-scale detection of spatially variable genes. bioRxiv.
+            Yang, C., Zhang, X., & Chen, J. (2026). Frequency-domain kernels enable atlas-scale detection of spatially variable genes.
             <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.12.711372v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/FlashS">GitHub: FlashS</a>
           </p>
@@ -50,7 +60,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2026). ChatSpatial: Schema-enforced agentic orchestration for reproducible and cross-platform spatial transcriptomics. bioRxiv.
+            Yang, C., Zhang, X., & Chen, J. (2026). ChatSpatial: Schema-enforced agentic orchestration for reproducible and cross-platform spatial transcriptomics.
             <a class="tag" href="https://www.biorxiv.org/content/early/2026/03/01/2026.02.26.708361">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/ChatSpatial">GitHub</a>
           </p>
@@ -61,18 +71,8 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair regression under demographic parity: a unified framework. arXiv.
+            Feng, Y., Wang, W., Wong, R. K. W., & Zhang, X. (2026). Fair regression under demographic parity: a unified framework.
             <a class="tag" href="https://arxiv.org/abs/2601.10623">arXiv</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Zhang, X. (2026). Mirror and knockoff+ thresholds under dependence. arXiv.
-            <a class="tag" href="https://arxiv.org/abs/2607.17084">arXiv</a>
           </p>
         </div>
       </div>
@@ -115,7 +115,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2025). FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching. bioRxiv.
+            Yang, C., Zhang, X., & Chen, J. (2025). FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching.
             <a class="tag" href="https://www.biorxiv.org/content/10.64898/2025.12.22.696108v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/flashdeconv">GitHub: flashdeconv</a>
           </p>
@@ -138,7 +138,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Li, G., & Zhang, X. (2025). A general framework for multiple testing via e-value aggregation and data-dependent weighting. arXiv.
+            Li, G., & Zhang, X. (2025). A general framework for multiple testing via e-value aggregation and data-dependent weighting.
             <a class="tag" href="https://arxiv.org/abs/2312.02905">arXiv</a>
           </p>
         </div>
@@ -192,7 +192,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Lyu, P., Zhang, X., & Cao, H. (2024). Testing composite null hypotheses with high-dimensional dependent data: a computationally scalable FDR-controlling procedure. arXiv.
+            Lyu, P., Zhang, X., & Cao, H. (2024). Testing composite null hypotheses with high-dimensional dependent data: a computationally scalable FDR-controlling procedure.
             <a class="tag" href="https://arxiv.org/abs/2404.05808">arXiv</a>
           </p>
         </div>
@@ -202,7 +202,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Roy, A., Zhou, H., Zhao, N., & Zhang, X. (2024). Subsampling-based tests in mediation analysis. arXiv.
+            Roy, A., Zhou, H., Zhao, N., & Zhang, X. (2024). Subsampling-based tests in mediation analysis.
             <a class="tag" href="https://arxiv.org/abs/2411.10648">arXiv</a>
           </p>
         </div>
@@ -212,7 +212,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yan, J., Li, Z., & Zhang, X. (2024). Distance and kernel-based measures for global and local two-sample conditional distribution testing. arXiv.
+            Yan, J., Li, Z., & Zhang, X. (2024). Distance and kernel-based measures for global and local two-sample conditional distribution testing.
             <a class="tag" href="https://arxiv.org/abs/2210.08149">arXiv</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
@@ -298,7 +298,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Pramanik, S., & Zhang, X. (2023). Structure adaptive elastic-net. arXiv.
+            Pramanik, S., & Zhang, X. (2023). Structure adaptive elastic-net.
             <a class="tag" href="https://arxiv.org/abs/2006.02041">arXiv</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/SAEnet">GitHub: SAEnet</a>
           </p>
@@ -374,7 +374,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhang, X., Zhou, H., & Ye, H. (2022). A modern theory for high-dimensional Cox regression models. arXiv.
+            Zhang, X., Zhou, H., & Ye, H. (2022). A modern theory for high-dimensional Cox regression models.
             <a class="tag" href="https://arxiv.org/abs/2204.01161">arXiv</a>
           </p>
         </div>
@@ -463,7 +463,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Chakraborty, S., & Zhang, X. (2021). High-dimensional change-point detection using generalized homogeneity metrics. arXiv.
+            Chakraborty, S., & Zhang, X. (2021). High-dimensional change-point detection using generalized homogeneity metrics.
             <a class="tag" href="https://arxiv.org/abs/2105.08976">arXiv</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
@@ -656,7 +656,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhang, X., & Cheng, G. (2014). Bootstrapping high dimensional time series. arXiv.
+            Zhang, X., & Cheng, G. (2014). Bootstrapping high dimensional time series.
             <a class="tag" href="https://arxiv.org/abs/1406.1037">arXiv</a>
           </p>
         </div>
