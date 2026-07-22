@@ -71,6 +71,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Zhang, X. (2026). Mirror and knockoff+ thresholds under dependence. arXiv.
+            <a class="tag" href="https://arxiv.org/abs/2607.17084">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). Large language model consensus substantially improves the cell type annotation accuracy for scRNA-seq data. <em>Communications Biology</em>.
             <a class="tag" href="https://www.nature.com/articles/s42003-026-10420-8">Journal</a>
             <a class="tag" href="https://github.com/cafferychen777/mLLMCelltype">GitHub: mLLMCelltype</a>
@@ -268,17 +278,6 @@ permalink: /research
             Crafts, E. S., Zhang, X., & Zhao, B. (2024). Bayesian Cramér–Rao bound estimation with score-based models. <em>IEEE Transactions on Information Theory</em>.
             <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">IEEE Xplore</a>
             <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Deng, L., He, K., & Zhang, X. (2024). Powerful spatial multiple testing via borrowing neighboring information. <em>Statistica Sinica</em>.
-            <a class="tag" href="https://arxiv.org/abs/2210.17121">arXiv</a>
-            <a class="tag" href="https://github.com/denglinsui/2dSMT">GitHub</a>
           </p>
         </div>
       </div>
