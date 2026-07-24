@@ -25,44 +25,6 @@ permalink: /vibe-coding
         </div>
       </div>
     </article>
-         <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/LLM-Games.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>LLM Game Theory Arena</strong> <span class="tag is-white">2025</span><br />
-            A platform for running game theory experiments with Large Language Models. Watch AI agents compete in strategic games, compare behavior across models, and play against them yourself.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-globe" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://llm-games-253773978748.us-central1.run.app/"
-                  >Live App</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/zhangxiany-tamu/LLM-Games"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
         <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
@@ -196,44 +158,6 @@ permalink: /vibe-coding
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/r-package-analytics"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
-        <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/crypto-portfolio-logo.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>Crypto Portfolio Optimizer</strong> <span class="tag is-white">2025</span><br />
-            A cryptocurrency portfolio analysis and optimization tool with technical analysis and machine learning predictions.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-globe" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://zhangxianyang-crypto-portfolio.share.connect.posit.cloud/"
-                  >Live App</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/zhangxiany-tamu/Crypto_Portfolio"
                   >GitHub</a
                 >
               </div>
