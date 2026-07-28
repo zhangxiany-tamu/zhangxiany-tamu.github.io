@@ -463,8 +463,8 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Chakraborty, S., & Zhang, X. (2021). High-dimensional change-point detection using generalized homogeneity metrics.
-            <a class="tag" href="https://arxiv.org/abs/2105.08976">arXiv</a>
+            Chakraborty, S., Wang, R., & Zhang, X. (2021). High-dimensional change-point detection using generalized homogeneity metrics.
+            <a class="tag" href="https://arxiv.org/abs/2105.08976v2">arXiv</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
