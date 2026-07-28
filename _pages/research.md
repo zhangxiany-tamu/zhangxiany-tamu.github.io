@@ -38,6 +38,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Chakraborty, S., Wang, R., & Zhang, X. (2026). High-dimensional change-point detection using generalized homogeneity metrics.
+            <a class="tag" href="https://arxiv.org/abs/2105.08976v2">arXiv</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). Intercellular communication is a heritable dimension of human tissue architecture.
             <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.29.715138v1">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/EdgeMap">GitHub: EdgeMap</a>
@@ -455,17 +466,6 @@ permalink: /research
             Zhou, H., Zhang, X., & Chen, J. (2021). Covariate adaptive family-wise error rate control for genome-wide association studies. <em>Biometrika</em>, <em>108</em>, 915–931.
             <a class="tag" href="https://doi.org/10.1093/biomet/asaa098">Journal</a>
             <a class="tag" href="https://github.com/jchen1981/CAMT/">R: CAMT</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Chakraborty, S., Wang, R., & Zhang, X. (2021). High-dimensional change-point detection using generalized homogeneity metrics.
-            <a class="tag" href="https://arxiv.org/abs/2105.08976v2">arXiv</a>
-            <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
           </p>
         </div>
       </div>
