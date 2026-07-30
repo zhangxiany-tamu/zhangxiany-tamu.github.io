@@ -42,44 +42,6 @@ permalink: /software
       </div>
     </div>
     <hr />
-         <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/autostat-logo.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>AutoStat (Beta version)</strong> <span class="tag is-white">2025</span><br />
-            AutoStat is an R package that uses Large Language Models (LLMs) to assist with statistical analysis workflows. It generates analysis plans, R code, and reports based on your data and research questions.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-globe" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://zhangxianyang.shinyapps.io/AutoStat/"
-                  >Live App</a
-                >
-              </div>
-            </div>
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/zhangxiany-tamu/AutoStat"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
      <div class="columns">
       <div class="column is-1">
         <figure class="image is-1by1">
@@ -99,34 +61,6 @@ permalink: /software
                   ><i class="fa fa-code-fork" aria-hidden="true"></i
                 ></span>
                 <a class="tag" href="https://github.com/zhangxiany-tamu/KDist"
-                  >GitHub</a
-                >
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <hr />
-    <div class="columns">
-      <div class="column is-1">
-        <figure class="image is-1by1">
-          <img src="/images/Rlogo.png" />
-        </figure>
-      </div>
-      <div class="column">
-        <div class="content">
-          <p>
-            <strong>tsdiscov</strong> <span class="tag is-white">2025</span><br />
-            Time series feature extraction and selection for R with C++ implementations.
-          </p>
-          <div class="field is-grouped is-grouped-multiline">
-            <div class="control">
-              <div class="tags has-addons">
-                <span class="tag is-dark"
-                  ><i class="fa fa-code-fork" aria-hidden="true"></i
-                ></span>
-                <a class="tag" href="https://github.com/zhangxiany-tamu/tsdiscov"
                   >GitHub</a
                 >
               </div>
