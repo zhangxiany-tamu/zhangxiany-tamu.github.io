@@ -60,17 +60,6 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2026). Frequency-domain kernels enable atlas-scale detection of spatially variable genes.
-            <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.12.711372v1">bioRxiv</a>
-            <a class="tag" href="https://github.com/cafferychen777/FlashS">GitHub: FlashS</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). ChatSpatial: Schema-enforced agentic orchestration for reproducible and cross-platform spatial transcriptomics.
             <a class="tag" href="https://www.biorxiv.org/content/early/2026/03/01/2026.02.26.708361">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/ChatSpatial">GitHub</a>
@@ -305,17 +294,6 @@ permalink: /research
       </div>
     </article>
     <h2 style="margin-top: 1.5rem; margin-bottom: 1rem;">2023</h2>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
-            Pramanik, S., & Zhang, X. (2023). Structure adaptive elastic-net.
-            <a class="tag" href="https://arxiv.org/abs/2006.02041">arXiv</a>
-            <a class="tag" href="https://github.com/zhangxiany-tamu/SAEnet">GitHub: SAEnet</a>
-          </p>
-        </div>
-      </div>
-    </article>
     <article class="media">
       <div class="media-content">
         <div class="content">
