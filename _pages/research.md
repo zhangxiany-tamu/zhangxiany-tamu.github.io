@@ -38,6 +38,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Zhang, X. (2026). Higher-order U-centering: ANOVA residualization and fast unbiased estimation.
+            <a class="tag" href="https://arxiv.org/abs/2608.01364">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Chakraborty, S., Wang, R., & Zhang, X. (2026). High-dimensional change-point detection using generalized homogeneity metrics.
             <a class="tag" href="https://arxiv.org/abs/2105.08976v2">arXiv</a>
             <a class="tag" href="https://github.com/zhangxiany-tamu/KDist">R: KDist</a>
