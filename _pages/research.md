@@ -275,16 +275,6 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Deng, L., Tang, Y., Zhang, X., & Chen, J. (2024). Structure-adaptive canonical correlation analysis for microbiome multi-omics data. <em>Frontiers in Genetics</em>.
-            <a class="tag" href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1489694/abstract">Journal</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
             Crafts, E. S., Zhang, X., & Zhao, B. (2024). Bayesian Cramér–Rao bound estimation with score-based models. <em>IEEE Transactions on Information Theory</em>.
             <a class="tag" href="https://ieeexplore.ieee.org/document/10643208">IEEE Xplore</a>
             <a class="tag" href="https://arxiv.org/abs/2309.16076">arXiv</a>
