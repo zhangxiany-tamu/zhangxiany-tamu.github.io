@@ -38,7 +38,7 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Zhang, X. (2026). Higher-order U-centering: ANOVA residualization and fast unbiased estimation.
+            Zhang, X. (2026). U-centering as subset ANOVA: edge regression and higher-order theory.
             <a class="tag" href="https://arxiv.org/abs/2608.01364">arXiv</a>
           </p>
         </div>
