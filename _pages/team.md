@@ -24,7 +24,6 @@ permalink: /team
           <h1>Current PhD students</h1>
           <p><ul>
             <li><a  href="https://cafferyang.com/">Chen Yang</a> (Co-directed with Jun Chen)</li>
-            <li>Weiwei Wang (Co-directed with Raymond Wong)</li>
             <li>Caleb Kahan</li>
           </ul></p>
         </div>
@@ -40,8 +39,8 @@ permalink: /team
           <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Assistant Professor at Beijing Normal University at Zhuhai</li>
           <li>Linsui Deng (Co-directed with Kejun He)<br/>Current Position: Postdoc at Chinese University of Hong Kong, Shenzhen</li>
           <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>
-          <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Postdoc at University of Pennsylvania</li>
-          <li>Jian Yan<br/>Current Position: Postdoc at Cornell</li>
+          <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Assistant Professor at Zhejiang University</li>
+          <li><a href="https://scholars.cityu.edu.hk/en/persons/jyan65/">Jian Yan</a><br/>Current Position: Assistant Professor at City University of Hong Kong</li>
             <li><a href="https://zhouhj1994.github.io/">Huijuan Zhou</a><br/>Current Position: Assistant Professor at Shanghai University of Finance and Economics</li>
             <li><a href="https://experts.okstate.edu/sayi">Sangyoon Yi</a><br/>Current Position: Assistant Professor at Oklahoma State University</li>
             <li><a href="https://shubhadeepstat.wixsite.com/shubhadeep">Shubhadeep Chakraborty</a><br/>Current Position: Senior Manager at Bristol Myers Squibb</li>
