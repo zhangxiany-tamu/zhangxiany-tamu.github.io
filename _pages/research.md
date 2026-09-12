@@ -115,6 +115,7 @@ permalink: /research
         <div class="content">
           <p>
             Deng, L., He, K., & Zhang, X. (2026). A flexible framework for robust and efficient Mendelian randomization with debiasing. <em>Briefings in Bioinformatics</em>.
+            <a class="tag" href="https://academic.oup.com/bib/article/27/5/bbag468/8787142">Journal</a>
             <a class="tag" href="https://github.com/denglinsui/MRdmIVW">GitHub</a>
           </p>
         </div>
