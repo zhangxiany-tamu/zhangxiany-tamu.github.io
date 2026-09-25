@@ -551,7 +551,7 @@ permalink: /research
             Zhang, X., & Cheng, G. (2017). Simultaneous inference for high-dimensional linear models. <em>Journal of the American Statistical Association</em>, <em>112</em>(518), 757-768.
             <a class="tag" href="https://doi.org/10.1080/01621459.2016.1166114">Journal</a>
             <a class="tag" href="/downloads/ZC16-Supp.pdf">Supplement</a>
-            <a class="tag" href="https://cran.r-project.org/web/packages/SILM/index.html">R: SILM</a>
+            <a class="tag" href="https://github.com/zhangxiany-tamu/SILM">R: SILM</a>
           </p>
         </div>
       </div>

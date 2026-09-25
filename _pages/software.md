@@ -468,8 +468,8 @@ It can be applied to change-point detection in linear models, generalized linear
                 ></span>
                 <a
                   class="tag"
-                  href="https://cran.r-project.org/web/packages/SILM/index.html"
-                  >CRAN</a
+                  href="https://github.com/zhangxiany-tamu/SILM"
+                  >GitHub</a
                 >
               </div>
             </div>
