@@ -47,6 +47,7 @@ permalink: /book
             <li>Applications and research frontiers</li>
             <li>Appendix: Advanced safe and sequential inference</li>
             <li>Appendix: Advanced conformal theory</li>
+            <li>Appendix: Details for decorrelated-score inference</li>
             <li>Appendix: Method-selection matrix</li>
             <li>Appendix: Glossary</li>
           </ul>
