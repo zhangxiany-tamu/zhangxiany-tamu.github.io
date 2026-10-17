@@ -48,17 +48,6 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
-            Yang, C., Zhang, X., & Chen, J. (2026). Spatial ligand-receptor gene annotations carry conditional heritability association across human tissues.
-            <a class="tag" href="https://www.biorxiv.org/content/10.64898/2026.03.29.715138v3">bioRxiv</a>
-            <a class="tag" href="https://github.com/cafferychen777/EdgeMap">GitHub: EdgeMap</a>
-          </p>
-        </div>
-      </div>
-    </article>
-    <article class="media">
-      <div class="media-content">
-        <div class="content">
-          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). ChatSpatial: Schema-enforced agentic orchestration for reproducible and cross-platform spatial transcriptomics.
             <a class="tag" href="https://www.biorxiv.org/content/early/2026/03/01/2026.02.26.708361">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/ChatSpatial">GitHub</a>
