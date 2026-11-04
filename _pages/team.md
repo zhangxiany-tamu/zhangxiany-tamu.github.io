@@ -37,7 +37,7 @@ permalink: /team
           <li>Daniel Cirkovic (Co-directed with <a  href="https://tw398.github.io/twang/">Tiandong Wang</a> and Daren Cline)<br/>Current Position: Assistant Professor at Marquette University</li>
           <li>Weiwei Wang (Co-directed with Raymond Wong)<br/>Current Position: Applied Scientist at Microsoft</li>
           <li><a  href="https://xingchi.li">Xingchi Li</a><br/>Current Position: Research Engineer at Google DeepMind</li>
-          <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Assistant Professor at Beijing Normal University at Zhuhai</li>
+          <li><a href="https://www.guanxun.li/">Guanxun Li</a><br/>Current Position: Associate Professor at Beijing Normal University at Zhuhai</li>
           <li>Linsui Deng (Co-directed with Kejun He)<br/>Current Position: Assistant Professor at Central South University</li>
           <li>Asmita Roy<br/>Current Position: Postdoc at Johns Hopkins University</li>
           <li><a href="https://yehanxuan.github.io/">Hanxuan Ye</a><br/>Current Position: Assistant Professor at Zhejiang University</li>

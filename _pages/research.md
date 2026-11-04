@@ -48,6 +48,16 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Zhang, X. (2026). Exact Simes inequalities for two-sided Gaussian tests.
+            <a class="tag" href="https://arxiv.org/abs/2611.02513">arXiv</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Yang, C., Zhang, X., & Chen, J. (2026). ChatSpatial: Schema-enforced agentic orchestration for reproducible and cross-platform spatial transcriptomics.
             <a class="tag" href="https://www.biorxiv.org/content/early/2026/03/01/2026.02.26.708361">bioRxiv</a>
             <a class="tag" href="https://github.com/cafferychen777/ChatSpatial">GitHub</a>
