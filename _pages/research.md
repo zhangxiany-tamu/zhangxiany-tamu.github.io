@@ -48,6 +48,17 @@ permalink: /research
       <div class="media-content">
         <div class="content">
           <p>
+            Lee, C. E., & Zhang, X. (2026). Testing conditional mean independence.
+            <a class="tag" href="https://arxiv.org/abs/2611.16227">arXiv</a>
+            <a class="tag" href="https://github.com/leece087/Conditional-Mean-Independence-Test">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </article>
+    <article class="media">
+      <div class="media-content">
+        <div class="content">
+          <p>
             Zhang, X. (2026). Exact Simes inequalities for two-sided Gaussian tests.
             <a class="tag" href="https://arxiv.org/abs/2611.02513">arXiv</a>
           </p>
